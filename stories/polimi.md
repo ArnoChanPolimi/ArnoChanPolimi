@@ -15,7 +15,7 @@ And what a place it was to be let into. On clear mornings the Alps still ambush 
 <br clear="all">
 
 <p align="center">
-  <img width="90%" src="../assets/photos/Polimi/Riva_Di_Garda.jpg" alt="Riva del Garda">
+  <img width="55%" src="../assets/photos/Polimi/Riva_Di_Garda.jpg" alt="Riva del Garda">
   <br><sub>Riva del Garda — as wide and as blue as an inland sea</sub>
 </p>
 

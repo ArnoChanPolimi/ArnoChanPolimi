@@ -27,7 +27,7 @@ Yet I was never happier than with something half-built in my hands. The hours I 
 <br clear="all">
 
 <p align="center">
-  <img width="90%" src="../assets/photos/BIT/BeiHu.jpg" alt="Beihu in the snow">
+  <img width="55%" src="../assets/photos/BIT/BeiHu.jpg" alt="Beihu in the snow">
   <br><sub>Beihu, Liangxiang — in the depth of winter</sub>
 </p>
 
