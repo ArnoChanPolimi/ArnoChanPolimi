@@ -2,18 +2,20 @@
 
 `Erasmus exchange — Networks, Telecommunications & Security · Sep 2025 – Jan 2026`
 
-My exchange semester at ENSEA still feels a little surreal — I can hardly believe I ended up there. It began with a housing scramble: for my first week I stayed at the home of a classmate from the student union, something I will never forget. It felt almost cinematic — a bit like someone from a remote corner of China a century ago improbably making their way to a distant land. I doubt many people gather experiences quite like these.
+Even now, my exchange semester at ENSEA reads like something I dreamed. I can hardly believe I was there.
 
-ENSEA's grande-école engineering model was unlike anything I had met before — demanding, but I loved it. I took a stack of networking courses and labs (and, honestly, GPT became a tutor I could not do without).
+It began without a roof. For my first week a classmate from the student union simply took me in — his family's old house, La Grange, with a stone cellar beneath it where we threw parties deep into the night and danced until the walls seemed to breathe. I will carry that week for the rest of my life. It felt like a tale from another century: some boy from a far corner of China, improbably set down on foreign soil — and I suspect few people ever gather a life quite like this.
 
-I grew fond of this small town northwest of Paris. I can still picture the RER ride into the city — rows of cosy detached houses sliding past the window, and me quietly imagining that one of them might, one day, be mine.
+ENSEA's grande-école way of teaching was unlike anything I had known — severe, exacting, and I loved every difficult hour of it. I spent the term among networks, their theory and their labs, and leaned without apology on GPT, the patient tutor so many of us can no longer do without.
 
-<table>
-  <tr>
-    <td align="center"><img src="../assets/photos/ENSEA/ENSEA_snowday.jpg" height="215"><br><sub>A snow day at ENSEA</sub></td>
-    <td align="center"><img src="../assets/photos/ENSEA/LaGrange_ENSEA.jpg" height="215"><br><sub>La Grange · Cergy</sub></td>
-  </tr>
-</table>
+Most of all I fell for that small town northwest of Paris. I can still see the RER gliding toward the city, row upon row of little houses slipping past the window, each with its own lit square of warmth — and me at the glass, quietly promising myself that one day one of them would be mine.
+
+<p align="center">
+  <img src="../assets/photos/ENSEA/ENSEA_snowday.jpg" height="230" alt="A snow day at ENSEA">
+  <img src="../assets/photos/ENSEA/LaGrange_ENSEA.jpg" height="230" alt="La Grange, home for my first week">
+  <br>
+  <sub>A snow day at ENSEA · La Grange, home for my first week</sub>
+</p>
 
 ---
 
