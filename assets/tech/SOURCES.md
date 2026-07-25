@@ -1,13 +1,18 @@
 # Technology mark sources
 
-These files are copied from assets maintained by the corresponding project or company. They are not generated, redrawn, recolored, or taken from a generic icon library.
+Each mark is a trademark of its respective owner and is used here only to identify the technology.
 
-| File | Source |
-|:--|:--|
-| `matlab.png` | MathWorks — `mathworks/MATLAB-extension-for-vscode`, `public/L-Membrane_RGB_128x128.png` |
-| `python.svg` | Python Software Foundation — official device-only Python logo |
-| `pytorch.svg` | PyTorch Foundation — official PyTorch artwork/icon |
-| `tensorflow.svg` | TensorFlow — official full-color primary icon from `tensorflow/tfx` |
-| `numpy.svg` | NumPy — official repository branding/logomark |
+| File | Mark | Source |
+|:--|:--|:--|
+| `python.svg` | Python | Python Software Foundation — official logo |
+| `pytorch.svg` | PyTorch | PyTorch Foundation — official icon |
+| `tensorflow.svg` | TensorFlow | TensorFlow — official icon |
+| `numpy.svg` | NumPy | NumPy — official logomark |
+| `matlab.svg` | MATLAB | Brand logomark (icon library) |
+| `cplusplus.svg` | C++ | ISO C++ logo (icon library) |
+| `docker.svg` | Docker | Brand logomark (icon library) |
+| `nvidia.svg` | NVIDIA | Brand logomark, cropped to the eye (icon library) |
 
-`C` and `C++` are rendered as neutral text keys because neither language has a single vendor-owned official company logo.
+`divider.svg` is a plain neutral rule, not a technology mark.
+
+The LinkedIn mark in `assets/social/` is a trademark of LinkedIn Corporation; `assets/social/email.svg` is a generic envelope glyph, recolored for contrast.

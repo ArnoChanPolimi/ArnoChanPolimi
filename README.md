@@ -12,20 +12,20 @@
 
 Building efficient, measurable systems across AI, signals, communications, and high-performance networks.
 
-[LinkedIn](https://www.linkedin.com/in/hong-chen-6608ba337/) · [Portfolio](https://arnochanpolimi.github.io) · [Email](mailto:arnochan2024@gmail.com)
+<a href="https://www.linkedin.com/in/hong-chen-6608ba337/"><img height="22" src="assets/social/linkedin.svg" alt="LinkedIn" title="LinkedIn"></a>&nbsp;&nbsp;<a href="mailto:arnochan2024@gmail.com"><img height="22" src="assets/social/email.svg" alt="Email" title="Email"></a>&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;<a href="https://arnochanpolimi.github.io">Portfolio</a>
 
 <br>
 
 <p align="center">
-  <sub><strong>LANGUAGES</strong></sub>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mathworks.com/products/matlab.html"><img height="28" src="assets/tech/matlab.png" alt="MATLAB" title="MATLAB"></a>&nbsp;&nbsp;
-  <a href="https://www.python.org/"><img height="28" src="assets/tech/python.svg" alt="Python" title="Python"></a>&nbsp;&nbsp;
-  <kbd>C</kbd>&nbsp;<kbd>C++</kbd>
-  &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-  <sub><strong>AI / SCIENTIFIC</strong></sub>&nbsp;&nbsp;&nbsp;
-  <a href="https://pytorch.org/"><img height="27" src="assets/tech/pytorch.svg" alt="PyTorch" title="PyTorch"></a>&nbsp;&nbsp;
-  <a href="https://www.tensorflow.org/"><img height="27" src="assets/tech/tensorflow.svg" alt="TensorFlow" title="TensorFlow"></a>&nbsp;&nbsp;
-  <a href="https://numpy.org/"><img height="28" src="assets/tech/numpy.svg" alt="NumPy" title="NumPy"></a>
+  <a href="https://www.mathworks.com/products/matlab.html"><img height="28" src="assets/tech/matlab.svg" alt="MATLAB" title="MATLAB"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.python.org/"><img height="28" src="assets/tech/python.svg" alt="Python" title="Python"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://isocpp.org/"><img height="28" src="assets/tech/cplusplus.svg" alt="C++" title="C++"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;<img height="22" src="assets/tech/divider.svg" alt="" aria-hidden="true">&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://pytorch.org/"><img height="27" src="assets/tech/pytorch.svg" alt="PyTorch" title="PyTorch"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.tensorflow.org/"><img height="27" src="assets/tech/tensorflow.svg" alt="TensorFlow" title="TensorFlow"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://numpy.org/"><img height="28" src="assets/tech/numpy.svg" alt="NumPy" title="NumPy"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.docker.com/"><img height="26" src="assets/tech/docker.svg" alt="Docker" title="Docker"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.nvidia.com/"><img height="24" src="assets/tech/nvidia.svg" alt="NVIDIA" title="NVIDIA"></a>
 </p>
 
 </div>
@@ -67,8 +67,9 @@ FMCW signal processing for contactless heart- and breathing-rate estimation.
 
 ### Education
 
-**Politecnico di Milano** — M.Sc. in Telecommunication Engineering  
-**ENSEA, France** — TEL exchange project in mmWave sensing and communications
+**Politecnico di Milano** — M.Sc. Telecommunication Engineering  
+**Beijing Institute of Technology** — B.Eng. Electronic and Information Engineering  
+**ENSEA, France** — Erasmus exchange · Networks, Telecommunications and Security
 
 ### Activity & Languages
 
