@@ -4,22 +4,28 @@
 
 <img align="right" width="330" src="../assets/photos/BIT/DSC_6534.JPG" alt="BIT campus by the water">
 
-In the autumn of 2019 I stepped off the train into Beijing — a shy boy still smelling of exam paper and small-town certainty, set loose in a capital far too large for him. Everything here was louder, faster, and far more sure of itself than I was. For a long while the city simply carried me along, a single leaf on a very wide river. But cities are patient teachers, and Beijing taught me in its own unhurried way: how to be small without being lost, how to find one familiar corner in an ocean of strangers, how to stand on my own two feet and truly mean it.
+In the autumn of 2019 I stepped off the train into Beijing — a shy boy who still smelled of exam paper and small-town certainty, set loose in a capital far too large for him. The city met me with a roar: ring road after ring road of noise and neon, a river of strangers that never once paused for breath, a sky I could seldom find between the towers. For weeks I was simply carried along by it all, a single leaf on very wide water, unsure whether I was living in the city or merely being swept through it.
 
 <br clear="all">
 
 <img align="left" width="300" src="../assets/photos/BIT/GongxunLou.jpg" alt="Gongxun Building, BIT">
 
-BIT is where my foundations were poured. I learned to read the grammar of the physical world — the flow of signals through circuits, the invisible geometry of electromagnetic fields, the quiet logic of communication systems — and I let advanced mathematics slowly rewire the way I think. I was greedy for all of it. Whenever a door opened onto a neighbouring discipline I walked straight through it and carried back whatever I could hold. Those four years stretched my sense of what the world contained, and of what I might do inside it, wider than all the years before them combined.
+But great cities are patient teachers, and Beijing taught me in its own unhurried way. It taught me how to be small without being lost; how to make one lit window, one noodle shop, one quiet corner of a library my own; how to stand on my own two feet and truly mean it. Somewhere in that first hard winter the fear thawed, without my noticing, into something like belonging — and I stopped counting the days until I could go home.
 
 <br clear="all">
 
-Between the lectures, though, I was happiest with something half-built in my hands. Some of my fondest hours from those years happened well past midnight — a breadboard glowing faintly on the desk, a stubborn line of code that finally behaved, a drone I chased across a bright afternoon at Tsinghua until its battery gave out. None of it was ever assigned; it was simply the shape my curiosity took when no one was watching.
+<img align="right" width="300" src="../assets/photos/BIT/DSC_6609.JPG" alt="BIT campus architecture">
+
+BIT is where my foundations were poured, and where, for the first time, I fell in love with understanding things. I learned to read the grammar of the physical world: the way a signal flows and folds through a circuit, the invisible geometry of an electromagnetic field, the patient logic by which a message survives a noisy channel. I let advanced mathematics rewire the way I think, until the equations stopped being obstacles and slowly became sentences. I was greedy for all of it — whenever a door opened onto a neighbouring discipline, I walked straight through it and carried back whatever I could hold.
+
+<br clear="all">
+
+And I was never happier than with something half-built in my hands. My fondest hours from those years happened well past midnight: a breadboard glowing faintly on a cluttered desk, a stubborn line of code that finally, gloriously behaved, a drone I photographed against the sun one bright afternoon at Tsinghua and then could not stop thinking about for weeks. None of it was ever assigned. It was simply the shape my curiosity took when no one was watching — and it remains the truest evidence I have of who I am.
 
 <p align="center">
-  <img height="230" src="../assets/photos/BIT/RaspberryPie.jpg" alt="A late-night electronics build">
+  <img height="235" src="../assets/photos/BIT/RaspberryPie.jpg" alt="A late-night electronics build">
   &nbsp;
-  <img height="230" src="../assets/photos/BIT/Tsinghua.jpg" alt="A drone at Tsinghua">
+  <img height="235" src="../assets/photos/BIT/Tsinghua.jpg" alt="A drone at Tsinghua">
   <br><sub>Late nights that were never assigned</sub>
 </p>
 
@@ -28,13 +34,9 @@ Between the lectures, though, I was happiest with something half-built in my han
   <br><sub>Beihu, Liangxiang — in the depth of winter</sub>
 </p>
 
-Not all of it was gentle. Three of those years unfolded under the long grey shadow of the pandemic, and there were stretches that genuinely hurt — plans dissolving, the campus fallen silent, a horizon that kept quietly receding. I will not pretend those months were anything but hard. Yet grief, like weather, always moves on; and what it leaves behind, once the sky finally clears, is a kind of steadiness. I walked out of those years quieter than I walked in — and a great deal harder to shake.
+Not all of those years were gentle. Three of the four unfolded under the long grey shadow of the pandemic — plans dissolving overnight, the campus fallen silent, a horizon that kept quietly receding just as I reached for it. I will not pretend those months were anything but hard; there were long stretches when the loneliness carried real weight. Yet sorrow, like weather, always moves on, and what it leaves behind once the sky finally clears is a kind of steadiness you cannot come by any easier way. I walked out of those years quieter than I walked in — and far, far harder to shake.
 
-<img align="left" width="300" src="../assets/photos/BIT/DSC_6609.JPG" alt="BIT campus architecture">
-
-What stays with me now are the small, stubborn things. The fat, unbothered geese drifting across a frozen Beihu in Liangxiang, wholly indifferent to the cold. The clean lines of the campus at dusk. The particular hush of a city that had once frightened me and, in the end, quietly made me one of its own. I arrived a boy who had mostly been told what to think; I left an engineer beginning, at last, to think for himself.
-
-<br clear="all">
+What stays with me now are the small, stubborn things. The fat, unbothered geese drifting across a frozen Beihu out in Liangxiang, wholly indifferent to the cold. The clean geometry of the campus at dusk, when the crowds thinned and the buildings themselves seemed to exhale. The particular hush of a city that had once frightened me and, in the end, quietly made me one of its own. I arrived a boy who had mostly been told what to think; I left an engineer who was, at last, beginning to think for himself — and that, far more than any diploma, is what Beijing gave me.
 
 ---
 
