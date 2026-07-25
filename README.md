@@ -34,9 +34,9 @@ Building efficient, measurable systems across AI, signals, communications, and h
 
 ### About
 
-I'm a Telecommunication Engineering master's student at **Politecnico di Milano**, and before that I earned my bachelor's in Electronic and Information Engineering at **Beijing Institute of Technology**. I work where AI systems, signal processing, and high-performance networking meet, and I'm drawn to problems that can be measured and made faster — a radar pipeline that reads a heartbeat, an O-RAN loop that closes in real time, a training run that spends less of its life waiting on the network.
+I'm a Telecommunication Engineering master's student at **Politecnico di Milano**, and before that I earned my bachelor's in Electronic and Information Engineering at **Beijing Institute of Technology**. I work where AI systems, signal processing, and high-performance networking meet.
 
-My master's thesis lives in that last problem, at the scale where a single data center is no longer enough. When the GPUs training a large model are spread across data centers, the slow links between those sites become the bottleneck — and every moment the network spends shuttling gradients is a moment the GPUs sit idle. I work to close that gap: profiling and tuning collective-communication libraries — **NCCL, MSCCL, and TECCL** — to accelerate the cross-data-center exchange and cut GPU idle time, so that far more of every run is spent learning and far less is lost in transit.
+My master's thesis is on **cross-data-center communication for large-scale AI training** — tuning collective-communication libraries (**NCCL**, **MSCCL**, **TECCL**) to speed up the exchange between GPUs spread across data centers and cut the idle time they lose to the network.
 
 ### Selected Work
 
