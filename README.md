@@ -32,6 +32,12 @@ Building efficient, measurable systems across AI, signals, communications, and h
 
 ---
 
+### About
+
+M.Sc. Telecommunication Engineering student at **Politecnico di Milano**, with a bachelor's from **Beijing Institute of Technology**. I work where AI systems, signal processing, and high-performance networking meet — building things that are efficient and measurable, from FMCW radar pipelines and O-RAN control loops to communication-efficiency tuning for distributed AI.
+
+Right now: master's thesis on **NCCL/RDMA performance engineering** for large-scale AI infrastructure. Open to research and engineering roles across these areas.
+
 ### Selected Work
 
 <table>
@@ -65,31 +71,33 @@ FMCW signal processing for contactless heart- and breathing-rate estimation.
 </tr>
 </table>
 
+### Focus areas
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/charts/radar-dark.svg">
+    <img width="430" src="assets/charts/radar-light.svg" alt="Focus areas radar: AI/ML, communications, signal processing, networks, programming, research">
+  </picture>
+</div>
+
 ### Education
 
-**[Politecnico di Milano](https://www.polimi.it/en)** — M.Sc. Telecommunication Engineering  
-**[ENSEA, France](https://www.ensea.fr)** — Erasmus exchange · Networks, Telecommunications and Security  
-**[Beijing Institute of Technology](https://english.bit.edu.cn)** — B.Eng. Electronic and Information Engineering
+**[Politecnico di Milano](https://github.com/ArnoChanPolimi/ArnoChanPolimi/blob/main/stories/polimi.md)** — M.Sc. Telecommunication Engineering  
+**[ENSEA, France](https://github.com/ArnoChanPolimi/ArnoChanPolimi/blob/main/stories/ensea.md)** — Erasmus exchange · Networks, Telecommunications and Security  
+**[Beijing Institute of Technology](https://github.com/ArnoChanPolimi/ArnoChanPolimi/blob/main/stories/bit.md)** — B.Eng. Electronic and Information Engineering
 
-### Activity & Languages
+### GitHub
 
-<p align="center">
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArnoChanPolimi&amp;theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArnoChanPolimi&amp;theme=github">
-    <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArnoChanPolimi&amp;theme=github" alt="GitHub contribution activity">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ArnoChanPolimi&amp;bg_color=00000000&amp;title_color=e6edf3&amp;color=9aa5b1&amp;line=4c9be8&amp;point=4c9be8&amp;area=true&amp;area_color=15334f&amp;hide_border=true&amp;custom_title=Contribution%20activity">
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArnoChanPolimi&amp;bg_color=00000000&amp;title_color=24292f&amp;color=57606a&amp;line=0a66c2&amp;point=0a66c2&amp;area=true&amp;area_color=d7e9fb&amp;hide_border=true&amp;custom_title=Contribution%20activity" alt="Contribution activity">
   </picture>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoChanPolimi&amp;layout=compact&amp;langs_count=6&amp;hide=Jupyter%20Notebook,HTML,CSS&amp;exclude_repo=HongersTravelMapRecordings,ArnoChanPolimi.github.io&amp;hide_border=true&amp;theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoChanPolimi&amp;layout=compact&amp;langs_count=6&amp;hide=Jupyter%20Notebook,HTML,CSS&amp;exclude_repo=HongersTravelMapRecordings,ArnoChanPolimi.github.io&amp;hide_border=true">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoChanPolimi&amp;layout=compact&amp;langs_count=6&amp;hide=Jupyter%20Notebook,HTML,CSS&amp;exclude_repo=HongersTravelMapRecordings,ArnoChanPolimi.github.io&amp;hide_border=true" alt="Languages across core repositories">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArnoChanPolimi&amp;theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArnoChanPolimi&amp;theme=github" alt="GitHub stats summary">
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArnoChanPolimi&amp;theme=github_dark&amp;exclude=Jupyter%20Notebook,HTML,CSS">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArnoChanPolimi&amp;theme=github&amp;exclude=Jupyter%20Notebook,HTML,CSS">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArnoChanPolimi&amp;theme=github&amp;exclude=Jupyter%20Notebook,HTML,CSS" alt="Languages represented in commits">
-  </picture>
-</p>
+</div>
