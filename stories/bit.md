@@ -4,11 +4,20 @@
 
 Where the foundations were laid — signals and systems, electronics, and programming that pointed me toward communications and AI.
 
-> _My story from Beijing — coming soon._
+<table>
+  <tr>
+    <td align="center"><img src="../assets/photos/BIT/BeiHu.jpg" height="175"><br><sub>Beihu, in the snow</sub></td>
+    <td align="center"><img src="../assets/photos/BIT/GongxunLou.jpg" height="175"><br><sub>Gongxun Building</sub></td>
+    <td align="center"><img src="../assets/photos/BIT/Tsinghua.jpg" height="175"><br><sub>Drone build</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="../assets/photos/BIT/DSC_6534.JPG" height="175"><br><sub>By the lake</sub></td>
+    <td align="center"><img src="../assets/photos/BIT/RaspberryPie.jpg" height="175"><br><sub>Electronics project</sub></td>
+    <td align="center"><img src="../assets/photos/BIT/DSC_6609.JPG" height="175"><br><sub>Beijing</sub></td>
+  </tr>
+</table>
 
-<!-- Write your story below. Add photos like:
-![Campus](../assets/photos/bit-1.jpg)
--->
+> _Written notes from Beijing — coming soon._
 
 ---
 
