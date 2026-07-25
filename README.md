@@ -82,9 +82,9 @@ FMCW signal processing for contactless heart- and breathing-rate estimation.
 
 ### Education
 
-**[Politecnico di Milano](https://github.com/ArnoChanPolimi/ArnoChanPolimi/blob/main/stories/polimi.md)** — M.Sc. Telecommunication Engineering  
-**[ENSEA, France](https://github.com/ArnoChanPolimi/ArnoChanPolimi/blob/main/stories/ensea.md)** — Erasmus exchange · Networks, Telecommunications and Security  
-**[Beijing Institute of Technology](https://github.com/ArnoChanPolimi/ArnoChanPolimi/blob/main/stories/bit.md)** — B.Eng. Electronic and Information Engineering
+**[Politecnico di Milano](https://github.com/ArnoChanPolimi/ArnoChanPolimi/blob/main/stories/polimi.md)** — M.Sc. Telecommunication Engineering · 2024–2026  
+**[ENSEA, France](https://github.com/ArnoChanPolimi/ArnoChanPolimi/blob/main/stories/ensea.md)** — Erasmus exchange · Networks, Telecommunications and Security · 2025–26  
+**[Beijing Institute of Technology](https://github.com/ArnoChanPolimi/ArnoChanPolimi/blob/main/stories/bit.md)** — B.Eng. Electronic and Information Engineering · 2019–2023
 
 ### GitHub
 

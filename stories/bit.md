@@ -1,8 +1,12 @@
 # Beijing Institute of Technology
 
-`B.Eng. Electronic and Information Engineering · Beijing, China`
+`B.Eng. Electronic and Information Engineering · Beijing, China · 2019–2023`
 
-Where the foundations were laid — signals and systems, electronics, and programming that pointed me toward communications and AI.
+I arrived in Beijing in 2019 as a shy high-schooler straight out of an exam-driven education, suddenly dropped into a vast capital city. The first months were overwhelming, but little by little I found my footing.
+
+BIT is where my foundation was built. I went deep into electronic and information engineering — signal processing, circuit analysis, electromagnetic fields, communication systems, and a heavy dose of advanced mathematics — and kept branching into neighbouring fields whenever I could. Those four years widened my view of the world more than anything before them.
+
+They also overlapped with three years of the pandemic, which were genuinely hard. But that is behind me now, and the low points only left me steadier and more resilient.
 
 <table>
   <tr>
@@ -16,8 +20,6 @@ Where the foundations were laid — signals and systems, electronics, and progra
     <td align="center"><img src="../assets/photos/BIT/DSC_6609.JPG" height="175"><br><sub>Beijing</sub></td>
   </tr>
 </table>
-
-> _Written notes from Beijing — coming soon._
 
 ---
 
