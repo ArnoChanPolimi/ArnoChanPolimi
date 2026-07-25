@@ -4,36 +4,52 @@
 
 <img align="right" width="340" src="../assets/photos/BIT/DSC_6534.JPG" alt="BIT campus by the water">
 
-In the autumn of 2019 I stepped down from the train into Beijing, a boy who still carried the dust of a small town on his shoes and the narrow certainties of the examination hall in his head. The capital received me without ceremony. It was a city built to a scale I had no measure for — ring road folded inside ring road, a tide of strangers that never once slackened, a sky I had to hunt for in the thin seams between the towers. For the whole of that first season I did little but drift through it, a single leaf borne on very wide and indifferent water, uncertain whether I was living in the city at all or merely being carried past it. It would take the better part of a year before I stopped flinching at its noise — and longer still before I learned, at last, to lift my eyes.
+I came to Beijing in the autumn of 2019 with the obedience of a student trained for examinations. I had grown up far from the capital, among the mountains of Gansu, where the earth feels old and human ambition feels both necessary and small. For years I had lived by gates: this test, that ranking, the next threshold to cross. A small place can make the world feel orderly in that way. Then the train arrived in Beijing, and the order loosened at once.
+
+The city was too large for my old imagination. Ring roads folded around other ring roads. Towers narrowed the sky. The crowd had its own weather, and I was only one small movement inside it. In those first months I did not feel heroic, or even particularly brave. I felt carried. A loose page in a city whose book I could not yet read.
 
 <br clear="all">
 
 <img align="left" width="330" src="../assets/photos/BIT/GongxunLou.jpg" alt="Gongxun Building, BIT">
 
-But great cities are patient teachers, and Beijing schooled me in its own unhurried way. It taught me how to be small without being lost; how to make a single lit window, a single noodle shop, one quiet carrel in a vast library my own; how to stand on my own two feet and mean it to the marrow. Somewhere in the depth of that first hard winter the fear thawed — I never caught the precise hour it happened — into something that felt astonishingly like belonging. And one grey morning I understood that I had stopped counting down the months until I could go home, for the simple reason that, in some quiet and unannounced way, I already was.
+BIT gave me my first grammar for that vastness. A dormitory room became an island. A library seat became a quiet country. A path across campus, repeated enough times, became a line of belonging drawn by the feet. The city did not grow smaller; I grew more exact inside it. I learned where to eat when I was tired, where to walk when thought had become too loud, where to sit when I needed an hour of silence.
+
+There is a lesson in that, one I could not have learned from comfort: maturity is not the conquest of scale. It is the ability to remain oneself within scale. Beijing did not make me larger by flattering me. It made me larger by refusing to arrange itself around me.
 
 <br clear="all">
 
 <img align="right" width="330" src="../assets/photos/BIT/DSC_6609.JPG" alt="BIT campus architecture">
 
-BIT is where my foundations were poured, and where, for the first time in my life, I fell in love with the plain pleasure of understanding things. I learned to read the grammar of the physical world — the way a signal flows and folds through a circuit, the invisible geometry of a field, the patient logic by which a message endures a channel full of noise — and I let mathematics, slowly and without mercy, rewire the way I think, until the equations ceased to be walls I had to scale and became instead sentences I could read at sight. I was greedy for all of it. Whenever a door swung open onto some neighbouring discipline, I walked straight through and carried back in both arms whatever I could hold.
+At BIT, engineering became more than a subject. It became a way of listening. Signals were no longer lines in a textbook; they were delicate travelers, shaped by circuits, weakened by noise, rescued by mathematics. Fields, channels, transforms, filters — each gave me another way to notice what had always been invisible. I began to feel that equations were not cold things. They were careful sentences, written by the world in a language strict enough to be trusted.
+
+Physics had always drawn me with this promise: that beneath the disorder of experience there might be laws, symmetries, invisible structures, not to make the world less mysterious but to make its mystery more precise. Technology drew me for the opposite reason: it allowed the invisible to become an instrument in the hand. A signal could be measured. A circuit could answer. A machine could turn an idea into motion. Between physics and engineering I found a bridge between wonder and making.
+
+This was the beginning of my intellectual independence. I learned not only to solve what was assigned, but to follow what attracted me. Electronic systems led me toward communication theory. Programming led me toward embedded devices. Signal processing opened into probability, and probability opened into a new respect for uncertainty. Knowledge no longer looked like a staircase. It looked more like a city, with side streets everywhere.
 
 <br clear="all">
 
 <img align="left" width="340" src="../assets/photos/BIT/Tsinghua.jpg" alt="A drone at Tsinghua">
 
-Yet I was never happier than with something half-built in my hands. The hours I remember most tenderly from those years all seem to have fallen well after midnight: a breadboard glowing faintly in a pool of desk light, a stubborn line of code that at long last consented to behave, a drone I photographed against a hard blue sky one afternoon over at Tsinghua and could not put out of my mind for weeks. None of it was ever set or graded. It was simply the shape my curiosity took when no one at all was watching — and it remains, to this day, the truest evidence I own of who I really am.
+The hours I loved most were often the least official. A breadboard under a lamp. A Raspberry Pi refusing, for no noble reason, to do what it had done five minutes earlier. A program failing with an error message so plain it felt almost insulting. Then the small miracle: the wire moved, the command corrected, the circuit alive.
+
+I still remember the laboratory where I finished my undergraduate thesis. It was an evening near the end, and the sunset entered the room with the softness of something that did not know it was leaving. Instruments sat on the benches. Wires lay across the table. The screen gave off its pale, practical light. Outside, the day was lowering itself behind Beijing, and for a moment everything felt unbearably real: the years behind me, the work in front of me, the youth I was already losing even while I stood inside it.
+
+That is the cruelty and the mercy of certain moments. They cannot be kept. They can only be inhabited fully enough that, later, some part of them remains. I think that evening remains in me still: not as nostalgia, but as a standard of reality. Whenever work becomes abstract, I remember the lab at sunset, and the fact that every idea, however elegant, must one day touch a desk, a hand, a wire, a world.
 
 <br clear="all">
 
 <p align="center">
   <img width="55%" src="../assets/photos/BIT/BeiHu.jpg" alt="Beihu in the snow">
-  <br><sub>Beihu, Liangxiang — in the depth of winter</sub>
+  <br><sub>Beihu, Liangxiang — winter making the campus quiet</sub>
 </p>
 
 <img align="right" width="245" src="../assets/photos/BIT/RaspberryPie.jpg" alt="A late-night electronics build">
 
-Not all of those years were kind to me. Three of the four unfolded beneath the long grey shadow of the pandemic — plans dissolving between one week and the next, the campus emptied into silence, a horizon that seemed to withdraw a little further each time I reached for it. I will not pretend that season was anything but hard; there were long stretches when the loneliness had a real and physical weight, and I carried it up every flight of stairs. Yet grief, like weather, always moves on in the end, and the thing it leaves behind once the sky has finally cleared is a kind of steadiness that cannot be come by any gentler way. What abides with me now are the small, stubborn graces: the fat, unbothered geese drifting across a frozen Beihu, entirely indifferent to the cold; the clean geometry of the campus at dusk, the hour when the buildings themselves appeared to exhale. I had arrived a boy who had mostly been told what to think. I left an engineer who was, at last, beginning to think for himself — and that, far more than any diploma, is what Beijing gave me to carry away.
+The pandemic passed through those years like a long grey season. It narrowed the world, interrupted plans, emptied rooms, and made the future feel less like a road than a question. I do not want to decorate that time with wisdom after the fact. It was hard. It was lonely. Some days asked for more endurance than I thought I had.
+
+Yet even then, life kept leaving small proofs of itself. Beihu under snow. The outline of Gongxun Building at dusk. Roommates returning late, carrying dinner and ordinary noise. A laptop humming past midnight. The relief of finally understanding something that had resisted me for days. I began to see that education is not only the gaining of knowledge, but the slow formation of a person capable of bearing knowledge honestly.
+
+I arrived in Beijing ready to answer questions placed before me. I left BIT beginning to ask my own. That change was quiet, but it was decisive. It is still with me: in the way I approach a problem, in the way I distrust easy certainty, and in the way I keep looking, beneath each answer, for the better question.
 
 <br clear="all">
 
