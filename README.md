@@ -90,14 +90,12 @@ FMCW signal processing for contactless heart- and breathing-rate estimation.
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ArnoChanPolimi&amp;bg_color=00000000&amp;title_color=e6edf3&amp;color=9aa5b1&amp;line=4c9be8&amp;point=4c9be8&amp;area=true&amp;area_color=15334f&amp;hide_border=true&amp;custom_title=Contribution%20activity">
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArnoChanPolimi&amp;bg_color=00000000&amp;title_color=24292f&amp;color=57606a&amp;line=0a66c2&amp;point=0a66c2&amp;area=true&amp;area_color=d7e9fb&amp;hide_border=true&amp;custom_title=Contribution%20activity" alt="Contribution activity">
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArnoChanPolimi&amp;theme=github_dark">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArnoChanPolimi&amp;theme=github" alt="GitHub stats summary">
+    <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArnoChanPolimi&amp;theme=github" alt="GitHub stats summary">
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArnoChanPolimi&amp;theme=github_dark&amp;exclude=Jupyter%20Notebook,HTML,CSS">
+    <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArnoChanPolimi&amp;theme=github&amp;exclude=Jupyter%20Notebook,HTML,CSS" alt="Top languages by commit">
   </picture>
 </div>
