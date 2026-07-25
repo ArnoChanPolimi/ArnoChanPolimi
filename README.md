@@ -67,9 +67,9 @@ FMCW signal processing for contactless heart- and breathing-rate estimation.
 
 ### Education
 
-**Politecnico di Milano** — M.Sc. Telecommunication Engineering  
-**Beijing Institute of Technology** — B.Eng. Electronic and Information Engineering  
-**ENSEA, France** — Erasmus exchange · Networks, Telecommunications and Security
+**[Politecnico di Milano](https://www.polimi.it/en)** — M.Sc. Telecommunication Engineering  
+**[ENSEA, France](https://www.ensea.fr)** — Erasmus exchange · Networks, Telecommunications and Security  
+**[Beijing Institute of Technology](https://english.bit.edu.cn)** — B.Eng. Electronic and Information Engineering
 
 ### Activity & Languages
 
