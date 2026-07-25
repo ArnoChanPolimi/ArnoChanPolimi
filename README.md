@@ -82,9 +82,13 @@ FMCW signal processing for contactless heart- and breathing-rate estimation.
 
 ### Education
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/edu/polimi-dark.svg"><img height="22" src="assets/edu/polimi-light.svg" alt="PoliMi"></picture> &nbsp;**[Politecnico di Milano](https://github.com/ArnoChanPolimi/ArnoChanPolimi/blob/main/stories/polimi.md)** — M.Sc. Telecommunication Engineering · 2024–2026  
-<img height="22" src="assets/edu/ensea.svg" alt="ENSEA"> &nbsp;**[ENSEA, France](https://github.com/ArnoChanPolimi/ArnoChanPolimi/blob/main/stories/ensea.md)** — Erasmus exchange · Networks, Telecommunications and Security · 2025–26  
-**[Beijing Institute of Technology](https://github.com/ArnoChanPolimi/ArnoChanPolimi/blob/main/stories/bit.md)** — B.Eng. Electronic and Information Engineering · 2019–2023
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/edu/polimi-dark.svg"><img align="left" height="40" hspace="12" src="assets/edu/polimi-light.svg" alt="Politecnico di Milano"></picture> **[Politecnico di Milano](https://github.com/ArnoChanPolimi/ArnoChanPolimi/blob/main/stories/polimi.md)** — M.Sc. Telecommunication Engineering · 2024–2026
+<br clear="all">
+<img align="left" height="40" hspace="12" src="assets/edu/ensea.svg" alt="ENSEA"> **[ENSEA, France](https://github.com/ArnoChanPolimi/ArnoChanPolimi/blob/main/stories/ensea.md)** — Erasmus exchange · Networks, Telecommunications and Security · 2025–26
+<br clear="all">
+<img align="left" height="40" hspace="12" src="assets/edu/spacer.svg" alt=""> **[Beijing Institute of Technology](https://github.com/ArnoChanPolimi/ArnoChanPolimi/blob/main/stories/bit.md)** — B.Eng. Electronic and Information Engineering · 2019–2023
+<br clear="all">
+
 
 ### GitHub
 
