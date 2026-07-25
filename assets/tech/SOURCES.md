@@ -15,4 +15,4 @@ Each mark is a trademark of its respective owner and is used here only to identi
 
 `divider.svg` is a plain neutral rule, not a technology mark.
 
-The LinkedIn mark in `assets/social/` is a trademark of LinkedIn Corporation; `assets/social/email.svg` is a generic envelope glyph, recolored for contrast.
+The `assets/social/*-light.svg` / `*-dark.svg` link buttons are self-authored card pills styled to match `assets/focus-*.svg`. The LinkedIn mark is a trademark of LinkedIn Corporation; the envelope and globe are generic glyphs.
