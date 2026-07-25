@@ -82,11 +82,11 @@ FMCW signal processing for contactless heart- and breathing-rate estimation.
 
 ### Education
 
-<p><img width="44" height="44" align="absmiddle" src="assets/edu/polimi-badge.svg" alt="Politecnico di Milano">&nbsp;&nbsp;<strong><a href="https://github.com/ArnoChanPolimi/ArnoChanPolimi/blob/main/stories/polimi.md">Politecnico di Milano</a></strong> — M.Sc. Telecommunication Engineering · 2024–2026</p>
+<p><img width="44" height="44" align="absmiddle" src="assets/edu/polimi-badge.svg" alt="Politecnico di Milano">&nbsp;&nbsp;<strong><a href="https://github.com/ArnoChanPolimi/ArnoChanPolimi/blob/main/stories/polimi.md">Politecnico di Milano</a></strong>&nbsp;<img height="14" align="absmiddle" src="assets/flags/italy.svg" alt="Italy"> — M.Sc. Telecommunication Engineering · 2024–2026</p>
 
-<p><img width="44" height="44" align="absmiddle" src="assets/edu/ensea.svg" alt="ENSEA">&nbsp;&nbsp;<strong><a href="https://github.com/ArnoChanPolimi/ArnoChanPolimi/blob/main/stories/ensea.md">ENSEA, France</a></strong> — Erasmus exchange · Networks, Telecommunications and Security · 2025–26</p>
+<p><img width="44" height="44" align="absmiddle" src="assets/edu/ensea.svg" alt="ENSEA">&nbsp;&nbsp;<strong><a href="https://github.com/ArnoChanPolimi/ArnoChanPolimi/blob/main/stories/ensea.md">ENSEA, France</a></strong>&nbsp;<img height="14" align="absmiddle" src="assets/flags/france.svg" alt="France"> — Erasmus exchange · Networks, Telecommunications and Security · 2025–26</p>
 
-<p><img width="44" height="44" align="absmiddle" src="assets/edu/bit.svg" alt="Beijing Institute of Technology">&nbsp;&nbsp;<strong><a href="https://github.com/ArnoChanPolimi/ArnoChanPolimi/blob/main/stories/bit.md">Beijing Institute of Technology</a></strong> — B.Eng. Electronic and Information Engineering · 2019–2023</p>
+<p><img width="44" height="44" align="absmiddle" src="assets/edu/bit.svg" alt="Beijing Institute of Technology">&nbsp;&nbsp;<strong><a href="https://github.com/ArnoChanPolimi/ArnoChanPolimi/blob/main/stories/bit.md">Beijing Institute of Technology</a></strong>&nbsp;<img height="14" align="absmiddle" src="assets/flags/china.svg" alt="China"> — B.Eng. Electronic and Information Engineering · 2019–2023</p>
 
 
 ### GitHub
