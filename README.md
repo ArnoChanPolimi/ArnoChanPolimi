@@ -34,9 +34,9 @@ Building efficient, measurable systems across AI, signals, communications, and h
 
 ### About
 
-M.Sc. Telecommunication Engineering student at **Politecnico di Milano**, with a bachelor's from **Beijing Institute of Technology**. I work where AI systems, signal processing, and high-performance networking meet — building things that are efficient and measurable, from FMCW radar pipelines and O-RAN control loops to communication-efficiency tuning for distributed AI.
+I'm a Telecommunication Engineering master's student at **Politecnico di Milano** (bachelor's from **Beijing Institute of Technology**), working where AI systems, signal processing, and high-performance networking meet. I'm drawn to problems that can be measured and made faster — a radar pipeline that reads a heartbeat, an O-RAN loop that closes in real time, a training run that wastes less of its life waiting on the network.
 
-Right now: master's thesis on **NCCL/RDMA performance engineering** for large-scale AI infrastructure. Open to research and engineering roles across these areas.
+My master's thesis lives in that last one: profiling and tuning the **NCCL / RDMA** communication layer that moves data between the GPUs training today's large language models — so that more of every run is spent learning, and less is lost in transit.
 
 ### Selected Work
 
