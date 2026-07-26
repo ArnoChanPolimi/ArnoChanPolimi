@@ -19,7 +19,8 @@ Building efficient, measurable systems across AI, signals, communications, and h
 <p align="center">
   <a href="https://www.mathworks.com/products/matlab.html"><img height="28" src="assets/tech/matlab.svg" alt="MATLAB" title="MATLAB"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.python.org/"><img height="28" src="assets/tech/python.svg" alt="Python" title="Python"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://isocpp.org/"><img height="28" src="assets/tech/cplusplus.svg" alt="C++" title="C++"></a>
+  <a href="https://isocpp.org/"><img height="28" src="assets/tech/cplusplus.svg" alt="C++" title="C++"></a>&nbsp;&nbsp;&nbsp;
+  <img height="26" src="assets/tech/script.svg" alt="Shell scripting" title="Shell scripting">
   &nbsp;&nbsp;&nbsp;&nbsp;<img height="22" src="assets/tech/divider.svg" alt="" aria-hidden="true">&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://pytorch.org/"><img height="27" src="assets/tech/pytorch.svg" alt="PyTorch" title="PyTorch"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.tensorflow.org/"><img height="27" src="assets/tech/tensorflow.svg" alt="TensorFlow" title="TensorFlow"></a>&nbsp;&nbsp;&nbsp;
