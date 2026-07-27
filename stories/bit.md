@@ -1,44 +1,36 @@
-# Beijing Institute of Technology · Where the Road Began
+# Beijing Institute of Technology · 2019–2023
 
-`B.Eng. Electronic and Information Engineering · Beijing, China · 2019–2023`
+`B.Eng. Electronic and Information Engineering · Beijing, China`
 
 <img align="right" width="340" hspace="18" vspace="4" src="../assets/photos/BIT/DSC_6534.JPG" alt="BIT campus by the water">
 
-Before Milan, before Cergy, before I had learned to speak about research in another country, there was Beijing. And before Beijing, there was Gansu: mountains, dust, long distances, and the early knowledge that the world does not open its doors equally to everyone.
+I arrived in Beijing in the autumn of 2019 to study **Electronic and Information Engineering** at **Beijing Institute of Technology**. Before that, my world had been much smaller: Gansu, mountains, long distances, and the kind of childhood where every opportunity had to be noticed carefully.
 
-I do not want to romanticize hardship. Poverty is not noble by itself. A mountain road is not beautiful when you are afraid it may be the only road you will ever have. But it teaches a certain attention. You learn to notice small chances. You learn that a narrow path can become wider if you walk it with enough patience. You learn, before you have the words for it, that dignity is sometimes nothing more dramatic than continuing.
-
-When I arrived at **Beijing Institute of Technology** in 2019, I thought a university would be another gate: pass the exam, enter the campus, move forward. Beijing corrected me quickly. The city was not a gate. It was a weather system. Roads folded into other roads. Buildings cut the sky into pieces. Crowds moved with a confidence I did not yet possess. I felt as if I had been taken from one sentence and placed inside a much larger book.
+Beijing was difficult to understand at first. It was large, dry, fast, and full of people who seemed to know exactly where they were going. I had entered university through examinations, so I was used to clear targets: a score, a ranking, a gate crossed. The city did not work like that. It did not give simple answers. It asked me to build a rhythm before I could feel steady inside it.
 
 <br clear="all">
 
 <img align="left" width="330" hspace="18" vspace="4" src="../assets/photos/BIT/GongxunLou.jpg" alt="Gongxun Building, BIT">
 
-BIT did not make that vastness disappear. It gave me a way to stand inside it. First a dorm room. Then a library seat. Then the path to class, the canteen at a familiar hour, the winter air around Liangxiang, campus lights returning one by one after dusk. None of these things looked heroic from the outside. That is why they were reliable.
+The first year was mostly a process of learning how to live in a much larger environment. A dorm room became familiar. Then a library seat. Then the path to class, the canteen at certain hours, the winter air around Liangxiang, and the campus lights after evening study.
 
-A life becomes believable through repetition. You carry books. You wait in line for dinner. You sit with a problem that refuses to become simple. You wake up the next morning and return to it. Little by little, the city remains large, but you no longer vanish inside it.
-
-That was my first education in Beijing: not a course, not a certificate, but the discovery that steadiness can be built. Not inherited. Built.
+Those details mattered because they turned a huge city into a place I could actually move through. University life was not only lectures and exams. It was also repetition: carrying books, waiting for dinner, debugging assignments, returning to a difficult chapter the next morning. That repetition slowly gave me a sense of order.
 
 <br clear="all">
 
 <img align="right" width="330" hspace="18" vspace="4" src="../assets/photos/BIT/DSC_6609.JPG" alt="BIT campus architecture">
 
-Then came the second education: the inner one. I studied **Electronic and Information Engineering**, but the name of the major was only the formal surface. Under it lived the questions that had followed me for years. Physics had fascinated me long before I knew what to do with it. It felt like the most honest kind of wonder: not asking the world to become poetic, only asking what it was already doing in silence. Engineering gave that wonder a hand, a tool, a discipline. It asked: can this hidden thing be measured? Can it be transmitted? Can it survive noise, distance, and uncertainty?
+Academically, BIT gave me the language I needed for questions I had carried for a long time. I was drawn to physics because it asked what the world was doing beneath ordinary appearances. Electronic and information engineering made that curiosity practical. Signals, fields, circuits, probability, communication systems — these subjects showed me that invisible things could be measured, shaped, transmitted, and recovered.
 
-Signals became my favorite metaphor before I knew they were a metaphor. A signal is fragile, but it travels. It can be distorted and still carry meaning. It passes through copper, air, filters, code, probability, and the stubborn imperfections of the real world. To study signals was to learn that the invisible is not unreal. It only asks for a more careful form of listening.
-
-I did not want courses to remain courses. A circuit was not merely a requirement. A program was not merely an assignment. A measurement was not merely a number. Each one asked the same quiet question: what can be known, and what kind of patience does knowledge demand?
+I liked the discipline of it. A signal is not meaningful because we wish it to be. It has to survive noise, loss, delay, and imperfect hardware. A system either works, fails, or reveals the part we did not understand. That clarity suited me. It made curiosity less vague and more responsible.
 
 <br clear="all">
 
 <img align="left" width="340" hspace="18" vspace="4" src="../assets/photos/BIT/Tsinghua.jpg" alt="A drone at Tsinghua">
 
-The hours I loved most often began after the official day had ended. A breadboard under a desk lamp. A Raspberry Pi refusing to behave. A line of code failing because of one small assumption I had not seen. Then, after enough stubbornness, the answer arrived without ceremony: an LED blinking, data appearing, a motor turning, a circuit finally speaking back.
+Some of the best learning happened outside the formal structure of class. A breadboard under a desk lamp. A Raspberry Pi that refused to behave. A program failing for one small reason I had not seen. These were ordinary engineering moments, but they taught me how technical patience works: observe, test, narrow the problem, change one thing, test again.
 
-Those moments taught me a logic that still follows me. First, the world resists. Then you measure. Then you ask a better question. Then, if you are lucky and honest, the system gives you a small truth. Not a grand truth, perhaps, but one that can be repeated. One that does not depend on mood. One that stays.
-
-This is why engineering moved me. It was not cold. It was a promise that wonder did not have to remain vague.
+When the result finally appeared — an LED blinking, data printing correctly, a small device responding — it was not dramatic. It was better than dramatic. It was repeatable. It was a small piece of the world agreeing to be understood.
 
 <br clear="all">
 
@@ -49,20 +41,18 @@ This is why engineering moved me. It was not cold. It was a promise that wonder 
 
 <img align="right" width="245" hspace="18" vspace="4" src="../assets/photos/BIT/RaspberryPie.jpg" alt="A late-night electronics build">
 
-The pandemic passed through most of my undergraduate years. Time became strange. Plans changed, rooms emptied, gates closed and opened, PCR tests became part of the rhythm of youth. Again and again, life was sealed into campus or home. Again and again, the outside world returned as a notification, a rule, a waiting line, a changed plan.
+The pandemic affected most of my undergraduate years. It changed schedules, closed gates, interrupted plans, and made PCR tests part of ordinary student life. There were repeated periods of being sealed inside campus or at home, and the uncertainty became tiring in a way that is hard to explain neatly.
 
-I still feel a coldness when I think of those years. Not because nothing happened, but because too much of youth was spent behind gates. Then, in December 2022, everything opened with a suddenness that was almost unreal. The long pressure did not end like a conclusion. It simply broke. I do not want to make those years noble simply because they are over. They were exhausting. Sometimes they were only hard.
+The most difficult part was not one single event. It was the repetition: restrictions, openings, new rules, waiting, another test, another changed plan. Then in December 2022, everything changed suddenly. Looking back, that period still feels unreal. It took away some of the freedom that should have belonged naturally to those years.
 
-But memory is not built only from victories, nor only from suffering. Beihu under snow. The outline of Gongxun Building at dusk. Roommates returning late with food. A laptop humming after midnight. A concept becoming clear after days of resistance. These things did not defeat the darkness. They sat beside it.
+In the final year, I worked on my undergraduate thesis in **self-organizing networks**, with experiments related to **beamforming**. At a broad level, the question was how a network without a fixed central structure can coordinate communication more effectively, and how energy can be shaped toward a useful direction instead of being wasted everywhere.
 
-By the hot, dry end of May, after months of work, I finally finished my undergraduate thesis. The topic belonged to **self-organizing networks**, and my experiments circled around **beamforming**: how a network, without a single fixed center, can shape direction, coordinate energy, and make communication more precise. I liked the quiet meaning hidden there. A beam is not only power. It is attention given a direction.
+By the hot, dry end of May, after several months of work, I finally completed the thesis. I remember the lab near sunset: equipment on the table, figures waiting to be checked, data to be saved, small errors still asking for attention. It was not a cinematic moment, but it was a clear one. A long task had reached its end, and I could see how much my way of thinking had changed since I first arrived in Beijing.
 
-I still remember the laboratory near the end. Beijing was already carrying summer in its air. The room was full of the soft gold that comes just before sunset disappears. Wires lay across the table. The screen gave off its pale, practical light. Data waited to be checked, figures to be saved, small errors to be corrected. Nothing dramatic happened. Someone would eventually turn off the lights. Yet the moment felt complete: the work, the room, the months behind me, and the younger self who had once only wanted to escape the narrowness of his beginnings.
-
-I arrived in Beijing trained to answer questions placed before me. I left BIT beginning to ask my own. That was the first turn in the road. After Beijing, the question was no longer only whether I could go farther. It was what kind of person I would become while going.
+I left BIT with a stronger technical foundation, but also with a habit that mattered even more: when something is unclear, do not rush to decorate it. Measure it, question it, simplify it, and understand where the difficulty really is.
 
 <br clear="all">
 
 ---
 
-[Next: Politecnico di Milano →](https://github.com/ArnoChanPolimi/ArnoChanPolimi/blob/main/stories/polimi.md) · [← Back to profile](https://github.com/ArnoChanPolimi)
+[← Back to profile](https://github.com/ArnoChanPolimi)
