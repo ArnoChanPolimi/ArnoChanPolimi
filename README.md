@@ -15,7 +15,7 @@ how can invisible things — signals, gradients, channels, noise, motion — be 
 
 I build and study systems at the edge of **AI infrastructure**, **communication networks**, and **signal processing**.
 
-<a href="https://www.linkedin.com/in/hong-chen-6608ba337/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social/linkedin-dark.svg"><img height="46" src="assets/social/linkedin-light.svg" alt="LinkedIn"></picture></a>&nbsp;&nbsp;<a href="mailto:arnochan2024@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social/email-dark.svg"><img height="46" src="assets/social/email-light.svg" alt="Email"></picture></a>&nbsp;&nbsp;<a href="https://arnochanpolimi.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social/portfolio-dark.svg"><img height="46" src="assets/social/portfolio-light.svg" alt="Portfolio"></picture></a>
+<a href="https://www.linkedin.com/in/hongchen-arno/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social/linkedin-dark.svg"><img height="46" src="assets/social/linkedin-light.svg" alt="LinkedIn"></picture></a>&nbsp;&nbsp;<a href="mailto:arnochan2024@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social/email-dark.svg"><img height="46" src="assets/social/email-light.svg" alt="Email"></picture></a>&nbsp;&nbsp;<a href="https://arnochanpolimi.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social/portfolio-dark.svg"><img height="46" src="assets/social/portfolio-light.svg" alt="Portfolio"></picture></a>
 
 <br>
 
