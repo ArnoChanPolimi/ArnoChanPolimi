@@ -45,9 +45,11 @@ The pandemic affected most of my undergraduate years. It changed schedules, clos
 
 The most difficult part was not one single event. It was the repetition: restrictions, openings, new rules, waiting, another test, another changed plan. Then in December 2022, everything changed suddenly. Looking back, that period still feels unreal. It took away some of the freedom that should have belonged naturally to those years.
 
-In the final year, I worked on my undergraduate thesis in **self-organizing networks**, with experiments related to **beamforming**. At a broad level, the question was how a network without a fixed central structure can coordinate communication more effectively, and how energy can be shaped toward a useful direction instead of being wasted everywhere.
+In the final year, my undergraduate thesis focused on **multi-node cooperative directional transmission in wireless ad hoc networks**. The idea was simple in its goal but demanding in its details: in a network without fixed infrastructure or a central base station, several nodes try to coordinate their transmissions so that their signals add up in a useful direction instead of spreading energy everywhere.
 
-By the hot, dry end of May, after several months of work, I finally completed the thesis. I remember the lab near sunset: equipment on the table, figures waiting to be checked, data to be saved, small errors still asking for attention. It was not a cinematic moment, but it was a clear one. A long task had reached its end, and I could see how much my way of thinking had changed since I first arrived in Beijing.
+The work had two main parts. First, the nodes needed accurate time and frequency synchronization; otherwise, cooperation would only create disorder. Then, after synchronization, the transmission parameters could be adjusted through feedback so that a directional beam gradually formed. Most of my experiments were MATLAB simulations, including different node layouts and feedback strategies for distributed beamforming.
+
+By the hot, dry end of May, after several months of work, I finally completed the thesis. I remember the lab near sunset: equipment on the table, simulation figures waiting to be checked, data to be saved, small errors still asking for attention. It was not a cinematic moment, but it was a clear one. A long task had reached its end, and I could see how much my way of thinking had changed since I first arrived in Beijing.
 
 I left BIT with a stronger technical foundation, but also with a habit that mattered even more: when something is unclear, do not rush to decorate it. Measure it, question it, simplify it, and understand where the difficulty really is.
 
