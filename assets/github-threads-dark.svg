@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="360" viewBox="0 0 760 360" role="img" aria-label="GitHub technical threads card">
+  <rect x="1" y="1" width="758" height="358" rx="18" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <circle cx="58" cy="60" r="11" fill="#3fb950"/>
+  <text x="82" y="69" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="28" font-weight="700" fill="#f0f6fc">Technical Threads</text>
+  <text x="58" y="112" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" fill="#8b949e">The areas I return to most often across coursework, projects, and research.</text>
+  <line x1="58" y1="145" x2="702" y2="145" stroke="#30363d" stroke-width="2"/>
+  <g font-family="Segoe UI, Inter, Arial, sans-serif" font-size="17" font-weight="600">
+    <rect x="58" y="172" width="226" height="42" rx="21" fill="#0f2a1a" stroke="#238636"/>
+    <text x="80" y="199" fill="#7ee787">AI Infrastructure</text>
+    <rect x="302" y="172" width="278" height="42" rx="21" fill="#112b46" stroke="#1f6feb"/>
+    <text x="324" y="199" fill="#79c0ff">Collective Communication</text>
+    <rect x="58" y="232" width="198" height="42" rx="21" fill="#332b00" stroke="#9e6a03"/>
+    <text x="80" y="259" fill="#d29922">RDMA / RoCEv2</text>
+    <rect x="274" y="232" width="218" height="42" rx="21" fill="#3d1518" stroke="#da3633"/>
+    <text x="296" y="259" fill="#ff7b72">Signal Processing</text>
+    <rect x="510" y="232" width="154" height="42" rx="21" fill="#271052" stroke="#8957e5"/>
+    <text x="532" y="259" fill="#d2a8ff">Wireless</text>
+  </g>
+  <text x="58" y="322" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="17" fill="#8b949e">Tools: Python · C++ · MATLAB · PyTorch · Docker · NVIDIA</text>
+</svg>

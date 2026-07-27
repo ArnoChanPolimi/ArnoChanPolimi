@@ -114,19 +114,14 @@ Each school below links to a longer story. I arranged them chronologically so th
 
 I use GitHub partly as an engineering notebook: code, experiments, measurements, and the occasional attempt to make technical work feel a little more alive.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**How I use GitHub**<br>
-I keep GitHub as a working notebook for projects, measurements, coursework, and research notes. I prefer repositories that show not only final code, but also the reasoning, assumptions, and limitations behind the work.
-
-</td>
-<td width="50%" valign="top">
-
-**Main technical threads**<br>
-AI infrastructure · collective communication · RDMA/RoCEv2 · signal processing · wireless/network systems · Python/C++/MATLAB tooling
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/github-notebook-dark.svg">
+    <img width="46%" src="assets/github-notebook-light.svg" alt="GitHub engineering notebook">
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/github-threads-dark.svg">
+    <img width="46%" src="assets/github-threads-light.svg" alt="GitHub technical threads">
+  </picture>
+</div>

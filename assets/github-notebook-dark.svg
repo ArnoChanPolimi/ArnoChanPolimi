@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="360" viewBox="0 0 760 360" role="img" aria-label="GitHub engineering notebook card">
+  <rect x="1" y="1" width="758" height="358" rx="18" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <circle cx="58" cy="60" r="11" fill="#58a6ff"/>
+  <text x="82" y="69" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="28" font-weight="700" fill="#f0f6fc">Engineering Notebook</text>
+  <text x="58" y="112" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" fill="#8b949e">Code, experiments, measurements, and research notes kept close to the work.</text>
+  <line x1="58" y1="145" x2="702" y2="145" stroke="#30363d" stroke-width="2"/>
+  <g font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" fill="#c9d1d9">
+    <text x="58" y="188">• Repositories as technical memory, not only final artifacts</text>
+    <text x="58" y="229">• Clear assumptions, measurement notes, and reproducible steps</text>
+    <text x="58" y="270">• Systems work documented through limits, bottlenecks, and fixes</text>
+  </g>
+  <rect x="58" y="304" width="178" height="34" rx="17" fill="#112b46" stroke="#1f6feb"/>
+  <text x="78" y="327" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="16" font-weight="600" fill="#79c0ff">measure first</text>
+  <rect x="252" y="304" width="178" height="34" rx="17" fill="#112b46" stroke="#1f6feb"/>
+  <text x="272" y="327" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="16" font-weight="600" fill="#79c0ff">write clearly</text>
+  <rect x="446" y="304" width="196" height="34" rx="17" fill="#112b46" stroke="#1f6feb"/>
+  <text x="466" y="327" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="16" font-weight="600" fill="#79c0ff">keep improving</text>
+</svg>
