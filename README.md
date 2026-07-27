@@ -10,7 +10,10 @@
   <img src="assets/focus-light.svg" width="100%" alt="AI and LLM systems, communication algorithms, statistical signal processing, and data-center and network systems">
 </picture>
 
-Building efficient, measurable systems across AI, signals, communications, and high-performance networks.
+From the mountains of Gansu to Beijing, Milan, and Cergy, I keep following the same quiet question:
+how can invisible things — signals, gradients, channels, noise, motion — be measured, understood, and made useful?
+
+I build and study systems at the edge of **AI infrastructure**, **communication networks**, and **signal processing**.
 
 <a href="https://www.linkedin.com/in/hong-chen-6608ba337/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social/linkedin-dark.svg"><img height="46" src="assets/social/linkedin-light.svg" alt="LinkedIn"></picture></a>&nbsp;&nbsp;<a href="mailto:arnochan2024@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social/email-dark.svg"><img height="46" src="assets/social/email-light.svg" alt="Email"></picture></a>&nbsp;&nbsp;<a href="https://arnochanpolimi.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social/portfolio-dark.svg"><img height="46" src="assets/social/portfolio-light.svg" alt="Portfolio"></picture></a>
 
@@ -35,24 +38,35 @@ Building efficient, measurable systems across AI, signals, communications, and h
 
 ### About
 
-I'm a Telecommunication Engineering master's student at **Politecnico di Milano**, and before that I earned my bachelor's in Electronic and Information Engineering at **Beijing Institute of Technology**. I work where AI systems, signal processing, and high-performance networking meet.
+I am a Telecommunication Engineering master's student at **Politecnico di Milano**. Before Milan, I studied Electronic and Information Engineering at **Beijing Institute of Technology**, where circuits, signals, and probability slowly became more than coursework: they became a way for me to listen to the hidden structure of the world.
 
-My master's thesis is on **cross-data-center communication for large-scale AI training** — tuning collective-communication libraries (**NCCL**, **MSCCL**, **TECCL**) to speed up the exchange between GPUs spread across data centers and cut the idle time they lose to the network.
+My current research is about **cross-geo communication for large-scale AI training**: how GPUs separated by geography can still learn together without losing too much time to distance. I work on the quiet but costly part of distributed learning — the waiting, synchronization, and network overhead between machines that must exchange gradients before the next step can begin. I am tuning and studying collective-communication libraries such as **NCCL**, **MSCCL**, and **ScaleCCL**, with the goal of reducing idle time and letting expensive computation spend more of its life actually learning.
 
-### Selected Work
+I am drawn to engineering because it keeps me honest. A sentence can sound beautiful and still be empty; a system cannot. It either runs, measures, fails, bottlenecks, or teaches you where your understanding was too shallow. That is the kind of clarity I like: precise, patient, and still full of wonder.
+
+### Questions I Keep Returning To
+
+- How can large AI training systems waste less time waiting on communication?
+- How can fragile signals — radar phase, video traces, noisy measurements — be recovered into something trustworthy?
+- How does information move through channels, protocols, and feedback loops when the world is not ideal?
+- How can engineering stay measurable and useful without losing the original curiosity that made the problem beautiful?
+
+### Selected Work & Research Threads
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 **[NCCL/RDMA Performance Engineering](https://github.com/ArnoChanPolimi/NCCL-RDMA-Performance-Tuning)**  
-Master's thesis on communication efficiency and performance tuning for distributed AI infrastructure. *Documentation only during disclosure review.*
+My master's-thesis direction: profiling and tuning collective communication for distributed AI training over high-performance networks. I care about the quiet loss hidden inside "waiting" — the time GPUs spend blocked by synchronization, transport behavior, and network bottlenecks.<br>
+<sub><b>Topics:</b> NCCL · MSCCL · ScaleCCL · RDMA/RoCEv2 · cross-geo training · measurement</sub>
 
 </td>
 <td width="50%" valign="top">
 
 **[Scalable Recommender Systems](https://github.com/ArnoChanPolimi/RecSys_PoliMi_Challenge_2025)**  
-Hybrid ranking over **3.8M interactions** using sparse computation, Cython, and Bayesian optimization.
+A recommender-system challenge built on **3.8M interactions**, where accuracy depended not only on model choice but on careful sparse computation, feature design, ensembling, and fast iteration.<br>
+<sub><b>Topics:</b> EASE · SLIM · iALS · Cython · Bayesian optimization</sub>
 
 </td>
 </tr>
@@ -60,19 +74,23 @@ Hybrid ranking over **3.8M interactions** using sparse computation, Cython, and 
 <td width="50%" valign="top">
 
 **[O-RAN Closed-Loop Control](https://github.com/ArnoChanPolimi/mrn-oran-m2-project2)**  
-BER-driven multi-UE MCS control across gNB emulation, E2 signaling, and an xApp.
+A network-control project where radio behavior becomes feedback: BER measurements guide multi-UE MCS decisions through gNB emulation, E2 signaling, and an xApp loop.<br>
+<sub><b>Topics:</b> Open RAN · E2AP · xApp · control loops</sub>
 
 </td>
 <td width="50%" valign="top">
 
 **[77 GHz Radar Vital-Sign Sensing](https://github.com/ArnoChanPolimi/mmWave-Radar-Vital-Sign-Detection)**  
-FMCW signal processing for contactless heart- and breathing-rate estimation.
+A sensing project that made me love the tenderness of signal processing: small chest motion, buried in phase and noise, recovered into breathing and heart-rate estimates without contact.<br>
+<sub><b>Topics:</b> FMCW radar · phase unwrapping · FFT · physiological sensing</sub>
 
 </td>
 </tr>
 </table>
 
 ### Focus areas
+
+The map below is not a ranking as much as a compass. I keep moving between systems that compute, systems that communicate, and signals that ask to be recovered.
 
 <div align="center">
   <picture>
@@ -83,6 +101,8 @@ FMCW signal processing for contactless heart- and breathing-rate estimation.
 
 ### Education
 
+Each school below links to a longer story. I wanted these pages to be more than CV entries: small memory rooms for the places that changed how I think.
+
 <p><img width="44" height="44" align="absmiddle" src="assets/edu/polimi-badge.svg" alt="Politecnico di Milano">&nbsp;&nbsp;<strong><a href="https://github.com/ArnoChanPolimi/ArnoChanPolimi/blob/main/stories/polimi.md">Politecnico di Milano</a></strong>&nbsp;<img height="14" align="absmiddle" src="assets/flags/italy.svg" alt="Italy"> — M.Sc. Telecommunication Engineering · 2024–2026</p>
 
 <p><img width="44" height="44" align="absmiddle" src="assets/edu/ensea.svg" alt="ENSEA">&nbsp;&nbsp;<strong><a href="https://github.com/ArnoChanPolimi/ArnoChanPolimi/blob/main/stories/ensea.md">ENSEA, France</a></strong>&nbsp;<img height="14" align="absmiddle" src="assets/flags/france.svg" alt="France"> — Erasmus exchange · Networks, Telecommunications and Security · 2025–26</p>
@@ -91,6 +111,8 @@ FMCW signal processing for contactless heart- and breathing-rate estimation.
 
 
 ### GitHub
+
+I use GitHub partly as an engineering notebook: code, experiments, measurements, and the occasional attempt to make technical work feel a little more alive.
 
 <div align="center">
   <picture>
