@@ -116,12 +116,12 @@ I use GitHub partly as an engineering notebook: code, experiments, measurements,
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/github-notebook-dark.svg">
-    <img width="46%" src="assets/github-notebook-light.svg" alt="GitHub engineering notebook">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/github-stats-dark.svg">
+    <img width="46%" src="assets/github-stats-light.svg" alt="GitHub public statistics">
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/github-threads-dark.svg">
-    <img width="46%" src="assets/github-threads-light.svg" alt="GitHub technical threads">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/github-languages-dark.svg">
+    <img width="46%" src="assets/github-languages-light.svg" alt="GitHub repository language distribution">
   </picture>
 </div>
