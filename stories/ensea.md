@@ -2,33 +2,37 @@
 
 `Erasmus exchange · Networks, Telecommunications & Security · Sep 2025 – Jan 2026`
 
-<img align="right" width="345" src="../assets/photos/ENSEA/ENSEA_snowday.jpg" alt="A snow day at ENSEA">
+<img align="right" width="345" hspace="18" vspace="4" src="../assets/photos/ENSEA/ENSEA_snowday.jpg" alt="A snow day at ENSEA">
 
-My months at ENSEA remain in memory with the clarity of something brief and improbable. It was only one semester, yet it carries the weight of a small lifetime. I arrived in Cergy not as someone who knew France, but as someone learning how to enter it carefully: one phrase, one station, one uncertain conversation at a time.
+My semester at ENSEA was brief, but memory does not measure time with a calendar. Some months pass and leave almost nothing. Others remain like a small lamp in the mind. Cergy became that kind of place for me.
 
-The first snow gave the campus a strange tenderness. It settled on the roofs and paths, softening the edges of the world. For a morning even my unease seemed quieter. I remember standing there with the astonishment of a person who has been placed inside a scene he had never known how to ask for: a boy from far away, in a French winter, watching the ordinary world become briefly ceremonial.
+I arrived in France with the awkward hope of someone trying not to ask too much from the world. I had documents, a suitcase, and more uncertainty than I wanted to show. The town was quiet. The campus was quiet too, and perhaps for that reason I did not feel judged by it. I was only another young person arriving, tired from distance, listening for a language that was not yet mine.
 
-<br clear="all">
-
-<img align="left" width="215" src="../assets/photos/ENSEA/LaGrange_ENSEA.jpg" alt="La Grange, home for my first week">
-
-The beginning was fragile in the practical sense: I had no permanent room. Then, with a generosity that still humbles me, a classmate from the student union took me into his family’s old house, La Grange. The name itself sounded like a place from a novel. Beneath the house there was a stone cellar, and in that cellar the nights grew warm with music, laughter, and voices moving between French and English until the difference mattered less than the welcome.
-
-I had thought hospitality meant kindness. In France I learned that it can mean something more exact: the courage to make space for another person’s uncertainty. A chair at a table, a slower sentence, a joke explained twice, a door left open without making the guest feel like a burden. These are small gestures, but small gestures are often the true architecture of a life.
+Then snow came. It settled on the roofs and paths, softening the edges of the school. For a morning the whole place seemed to speak more gently. I remember standing there without doing anything useful, watching white gather on ordinary surfaces. There was no grand revelation. Only the mild astonishment of being far from home and still finding the world capable of such softness.
 
 <br clear="all">
 
-ENSEA itself had the firmness of a school that expects its students to meet difficulty without complaint. In the morning a network existed as theory; by afternoon it lay before me in cables, terminals, addresses, traces, failures. I came to respect the honesty of a laboratory. It does not flatter you. It answers only to what works.
+<img align="left" width="215" hspace="18" vspace="4" src="../assets/photos/ENSEA/LaGrange_ENSEA.jpg" alt="La Grange, home for my first week">
 
-There is a particular humility in engineering: one cannot persuade a broken system by eloquence. One must listen to it. One must ask the right question, then a better one, then the question hidden under both. In that sense, the lab can become almost Socratic. It teaches by refusal. It forces thought to become clear.
+The beginning could have been difficult. I did not yet have a permanent room. A classmate from the student union took me into his family's old house, La Grange, with the ease of someone doing the obvious thing. I still think about that ease. To the guest, a small kindness can feel enormous; to the person offering it, it may be only Tuesday.
 
-But France was not only study. I remember walking with classmates through the Tuileries Garden in Paris, the gravel pale under our shoes, the trees arranged with that French belief that even nature may be invited into conversation with geometry. We were only talking, only walking, but the scene remains with me as if the afternoon had been sealed in glass: the open sky, the long axis of the garden, the easy human rhythm of voices beside me. Some moments do not announce themselves as happiness. They simply keep returning.
+There was a stone cellar beneath the house. At night it filled with music, low light, laughter, French moving too quickly for me, English arriving to rescue me, and the strange relief of being included before I had earned it. I followed conversations with my face as much as with my words. I smiled when I understood late. No one seemed impatient with this.
 
-I remember Cergy, too, in a more private way. The lake, the water plants in my hand, the small childish gesture of throwing them back into the water and watching the surface close over them. Nothing important happened. That is why I remember it. The mind often keeps what the camera would have ignored: the weight of wet green stems, the faint resistance before they left my fingers, the little rings spreading outward until the lake became still again.
+That week taught me something I did not know I needed to learn. Hospitality is not only a warm feeling. It is a practical art. A chair is moved. A sentence is repeated. A door is left open. Someone waits while you search for the word. The soul, when it is far from home, notices these small arrangements and remembers them for years.
 
-What I remember most, however, is Cergy after dark, folded into the outskirts of Paris. The RER moving with its patient metallic rhythm. Houses slipping past the window, each holding a square of warm light. I would watch those windows and feel a wish rise in me without drama: one day, somewhere, I wanted a light like that to be mine. Not a trophy, not a grand arrival. Just a room, a table, a lamp, and a life sufficiently my own to return to.
+<br clear="all">
 
-France gave me that kind of longing, and with it a quieter courage. It taught me that a person can be clumsy in a new language and still be understood; can arrive alone and still be received; can live for only a few months in a place and yet carry it for years afterward. My exchange semester did not feel like a detour. It felt like a window opened in the wall of my life, and through it came air I did not know I needed.
+ENSEA itself had a plain and useful strictness. In the morning a network was drawn on the board. By afternoon it had become cables, terminals, addresses, traces, and errors. The lab was not impressed by confidence. It answered only to care. If the system failed, one could not flatter it into working. One had to listen.
+
+This is where engineering begins to resemble a quiet conversation. Why did it fail here? What did I assume without seeing it? What would I have to know in order to ask the next question properly? The best answers did not end the inquiry. They made the next inquiry more honest.
+
+But France was not only school. I remember walking with classmates through the Tuileries Garden in Paris. The gravel made a dry, gentle sound under our shoes. The trees stood in their deliberate lines, as if nature had agreed, for an afternoon, to think in geometry. We were talking about nothing urgent. That may be why I remember it so clearly. Happiness rarely announces itself while it is happening. It simply walks beside you and lets you realize later.
+
+I remember Cergy lake even more privately. I had water plants in my hand, wet and green, and I threw them back into the lake. The surface opened, received them, and closed again. It was almost nothing. No photograph would have known what to do with it. But my fingers remember the cool stems, the slight resistance before letting go, the small rings widening on the water until the lake became still. Perhaps memory loves such moments because they do not try to become symbols. They only ask to have existed.
+
+At night, on the RER, I watched houses pass in the dark. Each window held a square of warm light. I imagined, without ambition, a future made of such a window: a desk, a lamp, a quiet room, a life I could return to without performing. France gave me that wish gently. Not success. Not certainty. Just the image of a life that could be peaceful and still meaningful.
+
+When I left ENSEA, it did not feel finished. A door, a cellar, a garden path, snow on a campus, the lake closing over water plants: these things stayed open inside me. For a little while, France allowed me to be foreign, young, uncertain, and not alone. That was enough to change the shape of the road ahead.
 
 ---
 
