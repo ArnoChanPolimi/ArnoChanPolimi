@@ -20,7 +20,7 @@ Living in Milan also changed the pace of my daily life. The city has a strong te
 
 <p align="center">
   <img width="55%" src="../assets/photos/Polimi/Riva_Di_Garda.jpg" alt="Riva del Garda">
-  <br><sub>Riva del Garda — water, mountain, and sky in the same frame</sub>
+  <br><sub>Riva del Garda, Italy</sub>
 </p>
 
 Outside coursework, I began to understand Europe through travel and ordinary observation. Lake Garda, the Alps in the distance, the Duomo in different weather, a quiet street near campus, a train platform in the morning — none of these directly solved technical problems, but they made the years more complete. They gave my work a better setting.
