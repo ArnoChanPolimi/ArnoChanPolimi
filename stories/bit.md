@@ -1,8 +1,8 @@
-# Beijing Institute of Technology - 2019-2023
+# Beijing Institute of Technology · 2019–2023
 
-`B.Eng. Electronic and Information Engineering - Beijing, China`
+`B.Eng. Electronic and Information Engineering · Beijing, China`
 
-<img align="right" width="340" hspace="18" vspace="4" src="../assets/photos/BIT/DSC_6534.JPG" alt="BIT campus by the water">
+<img align="right" width="300" hspace="18" vspace="4" src="../assets/photos/BIT/DSC_6534.JPG" alt="BIT campus by the water">
 
 I arrived in Beijing in the autumn of 2019 to study **Electronic and Information Engineering** at **Beijing Institute of Technology**. Before Beijing, there was Gansu: mountains, long distances, the Yellow River, festival colors in winter streets, and a childhood that taught me to notice every small opening carefully.
 
@@ -11,9 +11,9 @@ Beijing was larger than any place I had known. At first it felt dry, fast, and d
 <br clear="all">
 
 <p align="center">
-  <img width="31%" src="../assets/photos/BIT/SheHuo_Gansu.jpg" alt="Shehuo in Gansu">
-  <img width="31%" src="../assets/photos/BIT/SheHuo_Lanzhou_Gansu.jpg" alt="Shehuo in Lanzhou, Gansu">
-  <img width="31%" src="../assets/photos/BIT/Yellow_River_Lanzhou.jpg" alt="Yellow River in Lanzhou">
+  <img height="155" src="../assets/photos/BIT/SheHuo_Gansu.jpg" alt="Shehuo in Gansu">
+  <img height="155" src="../assets/photos/BIT/SheHuo_Lanzhou_Gansu.jpg" alt="Shehuo in Lanzhou, Gansu">
+  <img height="155" src="../assets/photos/BIT/Yellow_River_Lanzhou.jpg" alt="Yellow River in Lanzhou">
   <br><sub>Gansu before Beijing: festival colors, Lanzhou streets, and the Yellow River.</sub>
 </p>
 
@@ -22,9 +22,9 @@ The first year was mostly a process of learning how to live in a much larger env
 Those details mattered because they turned a huge city into a place I could actually move through. University life was not only lectures and exams. It was also repetition: carrying books, waiting for dinner, debugging assignments, returning to a difficult chapter the next morning. That repetition slowly gave me a sense of order.
 
 <p align="center">
-  <img width="31%" src="../assets/photos/BIT/GongxunLou.jpg" alt="Gongxun Building, BIT">
-  <img width="31%" src="../assets/photos/BIT/DSC_6609.JPG" alt="BIT campus architecture">
-  <img width="31%" src="../assets/photos/BIT/BeiHu.jpg" alt="Beihu in the snow">
+  <img height="150" src="../assets/photos/BIT/GongxunLou.jpg" alt="Gongxun Building, BIT">
+  <img height="150" src="../assets/photos/BIT/DSC_6609.JPG" alt="BIT campus architecture">
+  <img height="150" src="../assets/photos/BIT/BeiHu.jpg" alt="Beihu in the snow">
   <br><sub>BIT became familiar through buildings, routes, lake water, and winter quiet.</sub>
 </p>
 
@@ -33,9 +33,9 @@ Academically, BIT gave me the language I needed for questions I had carried for 
 I liked the discipline of it. A signal is not meaningful because we wish it to be. It has to survive noise, loss, delay, and imperfect hardware. A system either works, fails, or reveals the part we did not understand. That clarity suited me. It made curiosity less vague and more responsible.
 
 <p align="center">
-  <img width="31%" src="../assets/photos/BIT/Tsinghua.jpg" alt="A drone prototype">
-  <img width="31%" src="../assets/photos/BIT/RaspberryPie.jpg" alt="Raspberry Pi electronics work">
-  <img width="31%" src="../assets/photos/BIT/Beijing_Huawei_streetView.jpg" alt="A Beijing street view near Huawei">
+  <img height="155" src="../assets/photos/BIT/Tsinghua.jpg" alt="A drone prototype">
+  <img height="155" src="../assets/photos/BIT/RaspberryPie.jpg" alt="Raspberry Pi electronics work">
+  <img height="155" src="../assets/photos/BIT/Beijing_Huawei_streetView.jpg" alt="A Beijing street view near Huawei">
   <br><sub>Engineering felt close to the hand: prototypes, small boards, and the city's technical horizon.</sub>
 </p>
 
@@ -44,9 +44,9 @@ Some of the best learning happened outside the formal structure of class. A brea
 When the result finally appeared - an LED blinking, data printing correctly, a small device responding - it was not dramatic. It was better than dramatic. It was repeatable. It was a small piece of the world agreeing to be understood.
 
 <p align="center">
-  <img width="31%" src="../assets/photos/BIT/Beijing_Yuyuantan_Park._Sakurajpg.jpg" alt="Sakura at Yuyuantan Park">
-  <img width="31%" src="../assets/photos/BIT/Beijing_Yuyuantan_Park.jpg" alt="Yuyuantan Park and the central tower">
-  <img width="31%" src="../assets/photos/BIT/Beijing_Yuyuantan_Park_Food.jpg" alt="Food after a walk in Yuyuantan Park">
+  <img height="150" src="../assets/photos/BIT/Beijing_Yuyuantan_Park._Sakurajpg.jpg" alt="Sakura at Yuyuantan Park">
+  <img height="150" src="../assets/photos/BIT/Beijing_Yuyuantan_Park.jpg" alt="Yuyuantan Park and the central tower">
+  <img height="150" src="../assets/photos/BIT/Beijing_Yuyuantan_Park_Food.jpg" alt="Food after a walk in Yuyuantan Park">
   <br><sub>Yuyuantan in spring: blossoms, open sky, and a small meal after walking.</sub>
 </p>
 
@@ -61,8 +61,8 @@ The work had two main parts. First, the nodes needed accurate time and frequency
 By the hot, dry end of May, after several months of work, I finally completed the thesis. I remember the lab near sunset: equipment on the table, simulation figures waiting to be checked, data to be saved, small errors still asking for attention. It was not a cinematic moment, but it was a clear one. A long task had reached its end, and I could see how much my way of thinking had changed since I first arrived in Beijing.
 
 <p align="center">
-  <img width="46%" src="../assets/photos/BIT/Ulanhada.jpg" alt="A sparkler at Ulanhada">
-  <img width="46%" src="../assets/photos/BIT/Zhejiang_Jiande_Zhijiang_Village_Fuchun_River.jpg" alt="Fuchun River in Zhejiang">
+  <img height="175" src="../assets/photos/BIT/Ulanhada.jpg" alt="A sparkler at Ulanhada">
+  <img height="175" src="../assets/photos/BIT/Zhejiang_Jiande_Zhijiang_Village_Fuchun_River.jpg" alt="Fuchun River in Zhejiang">
   <br><sub>Outside the strict rhythm of study, there were also brief sparks and quiet rivers.</sub>
 </p>
 

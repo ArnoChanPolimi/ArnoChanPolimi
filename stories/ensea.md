@@ -1,15 +1,15 @@
-# ENSEA, France - 2025-2026
+# ENSEA, France · 2025–2026
 
-`Erasmus exchange - Networks, Telecommunications & Security - Cergy, France`
+`Erasmus exchange · Networks, Telecommunications & Security · Cergy, France`
 
 I went to **ENSEA** in Cergy for an Erasmus exchange in **Networks, Telecommunications and Security** from 2025 to 2026. The exchange was short compared with a full degree, but it was dense: a new school, new classmates, a different academic rhythm, and a clearer sense of what it means to study communication systems in an international environment.
 
 In the first days, there were practical things to solve: arrival, housing, schedules, administrative details, and finding my way around Cergy. The town was quieter than Milan, and ENSEA felt more compact. That made the beginning easier to understand.
 
 <p align="center">
-  <img width="31%" src="../assets/photos/ENSEA/ENSEA_lobby.jpg" alt="ENSEA lobby">
-  <img width="31%" src="../assets/photos/ENSEA/ENSEA_Bibliotheque.jpg" alt="ENSEA library">
-  <img width="31%" src="../assets/photos/ENSEA/ENSEA_snowday.jpg" alt="A snow day at ENSEA">
+  <img height="155" src="../assets/photos/ENSEA/ENSEA_lobby.jpg" alt="ENSEA lobby">
+  <img height="155" src="../assets/photos/ENSEA/ENSEA_Bibliotheque.jpg" alt="ENSEA library">
+  <img height="155" src="../assets/photos/ENSEA/ENSEA_snowday.jpg" alt="A snow day at ENSEA">
   <br><sub>ENSEA first appeared through ordinary spaces: lobby, library, snow, and schedules.</sub>
 </p>
 
@@ -20,9 +20,9 @@ One detail I still remember is that Damien once said my English had an Italian a
 La Grange had a stone cellar where people gathered at night. There was music, conversation, French moving quickly around me, and English used whenever I needed a bridge back into the group. I did not understand everything immediately, but I did not feel excluded. That mattered a lot in the first days.
 
 <p align="center">
-  <img width="31%" src="../assets/photos/ENSEA/LaGrange_ENSEA.jpg" alt="La Grange">
-  <img width="31%" src="../assets/photos/ENSEA/Cergy_LaGrange_Party_Dec.jpg" alt="A party at La Grange in December">
-  <img width="31%" src="../assets/photos/ENSEA/Cafe_Bar_ENSEA.jpg" alt="Cafe bar at ENSEA">
+  <img height="155" src="../assets/photos/ENSEA/LaGrange_ENSEA.jpg" alt="La Grange">
+  <img height="155" src="../assets/photos/ENSEA/Cergy_LaGrange_Party_Dec.jpg" alt="A party at La Grange in December">
+  <img height="155" src="../assets/photos/ENSEA/Cafe_Bar_ENSEA.jpg" alt="Cafe bar at ENSEA">
   <br><sub>La Grange and the small social places around ENSEA made the first weeks warmer.</sub>
 </p>
 
@@ -33,9 +33,9 @@ One of the first classmates I met in my program was **Ewan**, whose family came 
 There were also the smaller academic scenes that made the exchange real: presenting an idea on a whiteboard, listening to a classmate explain a result, watching a slide change the room from confusion to understanding. These moments were not spectacular, but they made the technical work human.
 
 <p align="center">
-  <img width="31%" src="../assets/photos/ENSEA/Hong_Presentation.jpg" alt="Presentation at ENSEA">
-  <img width="31%" src="../assets/photos/ENSEA/Nissrine_My_classmate_ENSEA.jpg" alt="Classmate at ENSEA">
-  <img width="31%" src="../assets/photos/ENSEA/Nissrine_My_classmate_ENSEA_ENG_Presentation.jpg" alt="Engineering presentation at ENSEA">
+  <img height="165" src="../assets/photos/ENSEA/Hong_Presentation.jpg" alt="Presentation at ENSEA">
+  <img height="165" src="../assets/photos/ENSEA/Nissrine_My_classmate_ENSEA.jpg" alt="Classmate at ENSEA">
+  <img height="165" src="../assets/photos/ENSEA/Nissrine_My_classmate_ENSEA_ENG_Presentation.jpg" alt="Engineering presentation at ENSEA">
   <br><sub>Classroom work became clearer when it passed through whiteboards, voices, and classmates.</sub>
 </p>
 
@@ -46,16 +46,16 @@ I also remember walking through the Tuileries Garden with classmates. The gravel
 Later, in Cergy, I remember standing by the lake with water plants in my hand and throwing them back into the water. It was a small moment, almost too small to explain. The stems were wet and cool, the surface opened, and the rings spread outward before disappearing. It stayed with me because it belonged to ordinary life, not to a planned achievement.
 
 <p align="center">
-  <img width="31%" src="../assets/photos/ENSEA/Paris_Dec.jpg" alt="Paris in December">
-  <img width="31%" src="../assets/photos/ENSEA/Paris_Dec_Eiffel.jpg" alt="Eiffel Tower in December">
-  <img width="31%" src="../assets/photos/ENSEA/Strasbourg_EU.jpg" alt="Strasbourg and the European Parliament">
+  <img height="155" src="../assets/photos/ENSEA/Paris_Dec.jpg" alt="Paris in December">
+  <img height="155" src="../assets/photos/ENSEA/Paris_Dec_Eiffel.jpg" alt="Eiffel Tower in December">
+  <img height="155" src="../assets/photos/ENSEA/Strasbourg_EU.jpg" alt="Strasbourg and the European Parliament">
   <br><sub>Paris and Strasbourg: imagined Europe becoming streets, light, and weather.</sub>
 </p>
 
 <p align="center">
-  <img width="31%" src="../assets/photos/ENSEA/Basel.jpg" alt="Basel street">
-  <img width="31%" src="../assets/photos/ENSEA/Basel_church.jpg" alt="A church in Basel">
-  <img width="31%" src="../assets/photos/ENSEA/France_Colmar.jpg" alt="Colmar, France">
+  <img height="165" src="../assets/photos/ENSEA/Basel.jpg" alt="Basel street">
+  <img height="165" src="../assets/photos/ENSEA/Basel_church.jpg" alt="A church in Basel">
+  <img height="165" src="../assets/photos/ENSEA/France_Colmar.jpg" alt="Colmar, France">
   <br><sub>Basel and Colmar, with stone, timber, winter light, and a quieter tenderness of place.</sub>
 </p>
 
