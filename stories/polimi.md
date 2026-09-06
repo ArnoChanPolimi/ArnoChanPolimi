@@ -1,45 +1,54 @@
-# Politecnico di Milano · 2024–2026
+# Politecnico di Milano · 2024-2026
 
 `M.Sc. Telecommunication Engineering · Milan, Italy`
 
-<img align="right" width="250" hspace="18" vspace="4" src="../assets/photos/Polimi/Polimi_1stBuilding.jpg" alt="Politecnico di Milano">
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img width="100%" src="../assets/photos/Polimi/Polimi_1stBuilding.jpg" alt="Politecnico di Milano campus">
+      </td>
+      <td width="50%" align="center">
+        <img width="100%" src="../assets/photos/Polimi/Duomo_Milano.jpg" alt="Duomo di Milano">
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><sub>Campus life, one route at a time.</sub></td>
+      <td align="center"><sub>Milan after class, still larger than the day.</sub></td>
+    </tr>
+  </table>
+</div>
 
-I came to Milan in 2024 for the master's program in **Telecommunication Engineering** at **Politecnico di Milano**. The beginning was mostly practical: documents, housing, transport, enrollment, unfamiliar streets, and the small pressure of doing ordinary things in a new language.
+I came to Milan in 2024 for Telecommunication Engineering. At the beginning, it was not some cinematic arrival. It was paperwork, rent, metro lines, new classrooms, Italian signs, and the small daily work of figuring things out without making a mess.
 
-The first weeks were about orientation. I learned how to move between campus buildings, where to buy daily things, how to read the rhythm of public transport, and how to make a normal day work. Milan became understandable through repeated routes rather than through any sudden feeling of arrival.
+Then the city started to become familiar. Not all at once. More like a map drawn by repetition: the same tram stop, the same campus corridors, the same walk after a long lab, the same view of old stone and modern engineering living side by side.
 
-<br clear="all">
+PoliMi gave my interests a sharper shape. Wireless systems, signal processing, information theory, optimization, networks, machine learning infrastructure: different courses, but the same underlying question kept coming back.
 
-<img align="left" width="250" hspace="18" vspace="4" src="../assets/photos/Polimi/Duomo_Milano.jpg" alt="Duomo di Milano">
+**How does information move when the world is imperfect?**
 
-During the first semesters, the program widened my view of communication engineering. Courses and projects connected signal processing, networking, wireless systems, optimization, and machine learning infrastructure. The subjects were different, but they shared a common logic: information has to move through imperfect systems, and good engineering begins by understanding where that movement becomes slow, noisy, fragile, or expensive.
+That question is the thread I like most. It appears in noisy radar phase, in a wireless channel, in a feedback loop, in a congested network, and in distributed AI training when GPUs wait for data that has not arrived yet.
 
-Living in Milan also changed the pace of my daily life. The city has a strong technical and industrial side, but it also gives space to old stone, evening light, design, museums, churches, railway stations, and streets that look different after rain. That contrast helped me. It reminded me that engineering does not have to be separated from attention to place, form, and beauty.
+## Current Research
 
-<br clear="all">
+<div align="center">
+  <img width="72%" src="../assets/photos/Polimi/GPU_set.jpg" alt="GPU test setup for distributed AI training research">
+  <br><sub>Thesis work: measuring and tuning communication for distributed AI training.</sub>
+</div>
 
-<p align="center">
-  <img width="55%" src="../assets/photos/Polimi/Riva_Di_Garda.jpg" alt="Riva del Garda">
-  <br><sub>Riva del Garda, Italy</sub>
-</p>
+My current work is about **cross-geo communication for large-scale AI training**. The practical problem is simple and painful: when GPUs are separated by distance, synchronization and data exchange can become the bottleneck. Expensive hardware can spend too much time waiting.
 
-Outside coursework, I began to understand Europe through travel and ordinary observation. Lake Garda, the Alps in the distance, the Duomo in different weather, a quiet street near campus, a train platform in the morning — none of these directly solved technical problems, but they made the years more complete. They gave my work a better setting.
+I work with collective-communication libraries such as **NCCL**, **MSCCL**, and **ScaleCCL**, plus RDMA/RoCE-style networking and measurement scripts, to understand where time is lost and what can actually be improved.
 
-I gradually became more comfortable using English as my main academic language. At first, writing and speaking required constant self-correction. Later, it became easier to ask questions, explain an idea, disagree politely, and revise my own thinking in conversation. That change was important because research is not only individual understanding; it is also communication with other people.
+What I like about this topic is that it does not let me hide behind nice words. A system either runs, stalls, saturates a link, exposes a bad assumption, or gives you a measurement worth trusting. That honesty is useful.
 
-<br clear="all">
+## What I Take From PoliMi
 
-<img align="right" width="250" hspace="18" vspace="4" src="../assets/photos/Polimi/GPU_set.jpg" alt="Thesis compute setup">
+- Measure first; intuition is better after it has met data.
+- Good engineering is not only making things work, but understanding why they stop working.
+- Communication systems are full of invisible movement. I like making that movement visible.
 
-My current research focuses on **cross-geo communication for large-scale AI training**. In large distributed training systems, many GPUs may be spread across different locations. They compute locally, but they also need to exchange information frequently. If the communication is slow or poorly scheduled, expensive GPUs spend too much time waiting instead of learning.
-
-The problem is not about adding a complicated formula for its own sake. The main logic is simple: many powerful parts must coordinate under real network constraints. Bandwidth, latency, synchronization, and collective communication patterns all affect how efficiently the whole system trains. I study and tune collective-communication libraries such as **NCCL**, **MSCCL**, and **ScaleCCL** to understand where time is lost and how communication can be improved.
-
-This topic interests me because it sits between theory and practice. It involves algorithms, systems, measurement, and hardware behavior, but the central question remains concrete: how can distributed machines exchange what they need with less waiting?
-
-PoliMi has been the place where my interests in communication, signal processing, and AI infrastructure became more focused. The work is still ongoing, but the direction is clear: build systems that are measurable, efficient, and honest about their bottlenecks.
-
-<br clear="all">
+PoliMi has been the place where my interests in communication, signal processing, and AI infrastructure stopped feeling like separate tracks and started becoming one direction.
 
 ---
 
