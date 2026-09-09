@@ -2,26 +2,14 @@
 
 `M.Sc. Telecommunication Engineering · Milan, Italy`
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <img width="100%" src="../assets/photos/Polimi/Polimi_1stBuilding.jpg" alt="Politecnico di Milano campus">
-      </td>
-      <td width="50%" align="center">
-        <img width="100%" src="../assets/photos/Polimi/Duomo_Milano.jpg" alt="Duomo di Milano">
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><sub>Campus life, one route at a time.</sub></td>
-      <td align="center"><sub>Milan after class, still larger than the day.</sub></td>
-    </tr>
-  </table>
-</div>
-
 I came to Milan in 2024 for Telecommunication Engineering. At the beginning, it was not some cinematic arrival. It was paperwork, rent, metro lines, new classrooms, Italian signs, and the small daily work of figuring things out without making a mess.
 
 Then the city started to become familiar. Not all at once. More like a map drawn by repetition: the same tram stop, the same campus corridors, the same walk after a long lab, the same view of old stone and modern engineering living side by side.
+
+<p align="center">
+  <img width="210" src="../assets/photos/Polimi/Polimi_1stBuilding.jpg" alt="Politecnico di Milano">
+  <br><sub>Politecnico di Milano</sub>
+</p>
 
 PoliMi gave my interests a sharper shape. Wireless systems, signal processing, information theory, optimization, networks, machine learning infrastructure: different courses, but the same underlying question kept coming back.
 
@@ -31,16 +19,16 @@ That question is the thread I like most. It appears in noisy radar phase, in a w
 
 ## Current Research
 
-<div align="center">
-  <img width="72%" src="../assets/photos/Polimi/GPU_set.jpg" alt="GPU test setup for distributed AI training research">
-  <br><sub>Thesis work: measuring and tuning communication for distributed AI training.</sub>
-</div>
-
 My current work is about **cross-geo communication for large-scale AI training**. The practical problem is simple and painful: when GPUs are separated by distance, synchronization and data exchange can become the bottleneck. Expensive hardware can spend too much time waiting.
 
 I work with collective-communication libraries such as **NCCL**, **MSCCL**, and **ScaleCCL**, plus RDMA/RoCE-style networking and measurement scripts, to understand where time is lost and what can actually be improved.
 
 What I like about this topic is that it does not let me hide behind nice words. A system either runs, stalls, saturates a link, exposes a bad assumption, or gives you a measurement worth trusting. That honesty is useful.
+
+<p align="center">
+  <img width="210" src="../assets/photos/Polimi/GPU_set.jpg" alt="The distributed-training test setup">
+  <br><sub>The distributed-training test setup</sub>
+</p>
 
 ## What I Take From PoliMi
 
