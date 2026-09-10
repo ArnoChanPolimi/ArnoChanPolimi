@@ -14,7 +14,9 @@ I am building an experimental testbed using PyTorch FSDP, NCCL/MSCCL, and RDMA o
 </table>
 <p><sub>Two separate experiments: workload scaling and an illustrative online run. Lower All-Gather latency is better. Click either figure to enlarge.</sub></p>
 
-[Website](https://arnochanpolimi.github.io) · [LinkedIn](https://www.linkedin.com/in/hongchen-arno/) · [ORCID](https://orcid.org/0009-0005-2135-3301) · [Email](mailto:arnochan2024@gmail.com)
+<p><a href="https://arnochanpolimi.github.io" title="Website"><img src="assets/social/website-icon.svg" width="28" height="28" alt="Website"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/hongchen-arno/" title="LinkedIn"><img src="assets/social/linkedin-icon.svg" width="28" height="28" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;<a href="https://orcid.org/0009-0005-2135-3301" title="ORCID"><img src="assets/social/orcid-icon.svg" width="28" height="28" alt="ORCID"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:arnochan2024@gmail.com" title="Email"><img src="assets/social/email-icon.svg" width="28" height="28" alt="Email"></a></p>
+
+<p><img src="assets/section-divider.svg" width="100%" height="1" alt=""></p>
 
 ### Selected work
 
@@ -22,6 +24,10 @@ I am building an experimental testbed using PyTorch FSDP, NCCL/MSCCL, and RDMA o
 - **[Recommender systems](https://github.com/ArnoChanPolimi/RecSys_PoliMi_Challenge_2025)** — Combining sparse models on 3.8 million interactions.
 - **[O-RAN control](https://github.com/ArnoChanPolimi/mrn-oran-m2-project2)** — Using radio measurements to guide modulation and coding decisions.
 - **[Radar vital-sign sensing](https://github.com/ArnoChanPolimi/mmWave-Radar-Vital-Sign-Detection)** — Estimating breathing and heart rate from 77 GHz radar signals.
+
+<p><a href="https://www.mathworks.com/products/matlab.html"><img src="assets/tech/matlab.svg" height="24" alt="MATLAB" title="MATLAB"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.python.org/"><img src="assets/tech/python.svg" height="24" alt="Python" title="Python"></a>&nbsp;&nbsp;&nbsp;<a href="https://isocpp.org/"><img src="assets/tech/cplusplus.svg" height="24" alt="C++" title="C++"></a>&nbsp;&nbsp;&nbsp;<img src="assets/tech/script.svg" height="24" alt="Shell scripting" title="Shell scripting">&nbsp;&nbsp;&nbsp;<a href="https://pytorch.org/"><img src="assets/tech/pytorch.svg" height="24" alt="PyTorch" title="PyTorch"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.tensorflow.org/"><img src="assets/tech/tensorflow.svg" height="24" alt="TensorFlow" title="TensorFlow"></a>&nbsp;&nbsp;&nbsp;<a href="https://numpy.org/"><img src="assets/tech/numpy.svg" height="24" alt="NumPy" title="NumPy"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.docker.com/"><img src="assets/tech/docker.svg" height="24" alt="Docker" title="Docker"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.nvidia.com/"><img src="assets/tech/nvidia.svg" height="24" alt="NVIDIA" title="NVIDIA"></a></p>
+
+<p><img src="assets/section-divider.svg" width="100%" height="1" alt=""></p>
 
 ### Education
 
@@ -32,6 +38,8 @@ Three places I have studied, with stories and photographs from each.
 <p><a href="https://github.com/ArnoChanPolimi/ArnoChanPolimi/blob/main/stories/ensea.md"><img src="assets/edu/ensea.svg" width="38" height="38" align="absmiddle" alt="">&nbsp; <strong>ENSEA, France</strong></a>&nbsp; <img src="assets/flags/france.svg" height="13" alt=""> — Erasmus exchange · Networks, wireless communications, and security<br><sub>Sep. 2025 – Jan. 2026</sub></p>
 
 <p><a href="https://github.com/ArnoChanPolimi/ArnoChanPolimi/blob/main/stories/bit.md"><img src="assets/edu/bit.svg" width="38" height="38" align="absmiddle" alt="">&nbsp; <strong>Beijing Institute of Technology</strong></a>&nbsp; <img src="assets/flags/china.svg" height="13" alt=""> — B.Sc. in Electronic Information Engineering<br><sub>Sep. 2019 – Jun. 2023</sub></p>
+
+<p><img src="assets/section-divider.svg" width="100%" height="1" alt=""></p>
 
 ### GitHub at a glance
 
