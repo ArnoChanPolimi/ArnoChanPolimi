@@ -2,9 +2,7 @@
 
 I'm a master's student in Telecommunication Engineering at **Politecnico di Milano**, working on distributed AI training in the [BONSAI Lab](https://www.bonsai.deib.polimi.it/) with [Qiaolun Zhang](https://qiaolunzhang.github.io/) and [Massimo Tornatore](https://tornatore.faculty.polimi.it/).
 
-My thesis focuses on distributed AI training across datacenters, where the bandwidth available to GPU communication can change as network traffic varies. I study how collective communication schedules and WAN routing can adapt together to these changes.
-
-I am building an experimental testbed using PyTorch FSDP, NCCL/MSCCL, and RDMA over RoCEv2. The work connects network measurements with decisions about All-Gather schedules and network paths. I use the testbed to compare communication time and training performance under changing bandwidth conditions, and to understand when adapting communication and routing together is useful.
+My thesis studies how to reduce communication delays when training AI models across datacenters. As available bandwidth changes, I explore how GPU communication schedules and network routes can adapt together. I am building a GPU testbed to compare these choices and measure their effect on communication time and training performance.
 
 <table>
 <tr>
@@ -25,7 +23,8 @@ I am building an experimental testbed using PyTorch FSDP, NCCL/MSCCL, and RDMA o
 - **[O-RAN control](https://github.com/ArnoChanPolimi/mrn-oran-m2-project2)** — Using radio measurements to guide modulation and coding decisions.
 - **[Radar vital-sign sensing](https://github.com/ArnoChanPolimi/mmWave-Radar-Vital-Sign-Detection)** — Estimating breathing and heart rate from 77 GHz radar signals.
 
-<p><a href="https://www.mathworks.com/products/matlab.html"><img src="assets/tech/matlab.svg" height="24" alt="MATLAB" title="MATLAB"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.python.org/"><img src="assets/tech/python.svg" height="24" alt="Python" title="Python"></a>&nbsp;&nbsp;&nbsp;<a href="https://isocpp.org/"><img src="assets/tech/cplusplus.svg" height="24" alt="C++" title="C++"></a>&nbsp;&nbsp;&nbsp;<img src="assets/tech/script.svg" height="24" alt="Shell scripting" title="Shell scripting">&nbsp;&nbsp;&nbsp;<a href="https://pytorch.org/"><img src="assets/tech/pytorch.svg" height="24" alt="PyTorch" title="PyTorch"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.tensorflow.org/"><img src="assets/tech/tensorflow.svg" height="24" alt="TensorFlow" title="TensorFlow"></a>&nbsp;&nbsp;&nbsp;<a href="https://numpy.org/"><img src="assets/tech/numpy.svg" height="24" alt="NumPy" title="NumPy"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.docker.com/"><img src="assets/tech/docker.svg" height="24" alt="Docker" title="Docker"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.nvidia.com/"><img src="assets/tech/nvidia.svg" height="24" alt="NVIDIA" title="NVIDIA"></a></p>
+<p align="center"><br>
+<a href="https://www.mathworks.com/products/matlab.html"><img src="assets/tech/matlab.svg" height="24" alt="MATLAB" title="MATLAB"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.python.org/"><img src="assets/tech/python.svg" height="24" alt="Python" title="Python"></a>&nbsp;&nbsp;&nbsp;<a href="https://isocpp.org/"><img src="assets/tech/cplusplus.svg" height="24" alt="C++" title="C++"></a>&nbsp;&nbsp;&nbsp;<img src="assets/tech/script.svg" height="24" alt="Shell scripting" title="Shell scripting">&nbsp;&nbsp;&nbsp;<a href="https://pytorch.org/"><img src="assets/tech/pytorch.svg" height="24" alt="PyTorch" title="PyTorch"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.tensorflow.org/"><img src="assets/tech/tensorflow.svg" height="24" alt="TensorFlow" title="TensorFlow"></a>&nbsp;&nbsp;&nbsp;<a href="https://numpy.org/"><img src="assets/tech/numpy.svg" height="24" alt="NumPy" title="NumPy"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.docker.com/"><img src="assets/tech/docker.svg" height="24" alt="Docker" title="Docker"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.nvidia.com/"><img src="assets/tech/nvidia.svg" height="24" alt="NVIDIA" title="NVIDIA"></a></p>
 
 <p><img src="assets/section-divider.svg" width="100%" height="1" alt=""></p>
 
@@ -33,11 +32,11 @@ I am building an experimental testbed using PyTorch FSDP, NCCL/MSCCL, and RDMA o
 
 Three places I have studied, with stories and photographs from each.
 
-<p><a href="https://github.com/ArnoChanPolimi/ArnoChanPolimi/blob/main/stories/polimi.md"><img src="assets/edu/polimi-badge.svg" width="38" height="38" align="absmiddle" alt="">&nbsp; <strong>Politecnico di Milano</strong></a>&nbsp; <img src="assets/flags/italy.svg" height="13" alt=""> — M.Sc. in Telecommunication Engineering<br><sub>Sep. 2024 – Dec. 2026 (expected)</sub></p>
-
-<p><a href="https://github.com/ArnoChanPolimi/ArnoChanPolimi/blob/main/stories/ensea.md"><img src="assets/edu/ensea.svg" width="38" height="38" align="absmiddle" alt="">&nbsp; <strong>ENSEA, France</strong></a>&nbsp; <img src="assets/flags/france.svg" height="13" alt=""> — Erasmus exchange · Networks, wireless communications, and security<br><sub>Sep. 2025 – Jan. 2026</sub></p>
-
-<p><a href="https://github.com/ArnoChanPolimi/ArnoChanPolimi/blob/main/stories/bit.md"><img src="assets/edu/bit.svg" width="38" height="38" align="absmiddle" alt="">&nbsp; <strong>Beijing Institute of Technology</strong></a>&nbsp; <img src="assets/flags/china.svg" height="13" alt=""> — B.Sc. in Electronic Information Engineering<br><sub>Sep. 2019 – Jun. 2023</sub></p>
+<table>
+<tr><td width="64" align="center" valign="middle"><img src="assets/edu/polimi-badge.svg" width="38" height="38" alt=""></td><td valign="top"><a href="https://github.com/ArnoChanPolimi/ArnoChanPolimi/blob/main/stories/polimi.md"><strong>Politecnico di Milano</strong></a>&nbsp; <img src="assets/flags/italy.svg" height="13" alt=""><br>M.Sc. in Telecommunication Engineering<br><sub>Sep. 2024 – Dec. 2026 (expected)</sub></td></tr>
+<tr><td width="64" align="center" valign="middle"><img src="assets/edu/ensea.svg" width="38" height="38" alt=""></td><td valign="top"><a href="https://github.com/ArnoChanPolimi/ArnoChanPolimi/blob/main/stories/ensea.md"><strong>ENSEA, France</strong></a>&nbsp; <img src="assets/flags/france.svg" height="13" alt=""><br>Erasmus exchange · Networks, wireless communications, and security<br><sub>Sep. 2025 – Jan. 2026</sub></td></tr>
+<tr><td width="64" align="center" valign="middle"><img src="assets/edu/bit.svg" width="38" height="38" alt=""></td><td valign="top"><a href="https://github.com/ArnoChanPolimi/ArnoChanPolimi/blob/main/stories/bit.md"><strong>Beijing Institute of Technology</strong></a>&nbsp; <img src="assets/flags/china.svg" height="13" alt=""><br>B.Sc. in Electronic Information Engineering<br><sub>Sep. 2019 – Jun. 2023</sub></td></tr>
+</table>
 
 <p><img src="assets/section-divider.svg" width="100%" height="1" alt=""></p>
 
