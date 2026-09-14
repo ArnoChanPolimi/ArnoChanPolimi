@@ -2,7 +2,7 @@
 
 I'm a master's student in Telecommunication Engineering at **Politecnico di Milano**, working on distributed AI training in the [BONSAI Lab](https://www.bonsai.deib.polimi.it/) with [Qiaolun Zhang](https://qiaolunzhang.github.io/) and [Massimo Tornatore](https://tornatore.faculty.polimi.it/).
 
-My thesis studies how to reduce communication delays when training AI models across datacenters. As available bandwidth changes, I explore how GPU communication schedules and network routes can adapt together. I am building a GPU testbed to compare these choices and measure their effect on communication time and training performance.
+My thesis focuses on reducing communication overhead in AI training across datacenters. I study how GPU communication schedules and network routes can adapt together to changes in available bandwidth. Using my [cross-datacenter AI training testbed](https://github.com/ArnoChanPolimi/cross-dc-ai-training-testbed), I compare these strategies and measure their impact on communication latency and training performance.
 
 <table>
 <tr>
