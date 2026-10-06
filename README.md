@@ -2,18 +2,31 @@
 
 I'm a master's student in Telecommunication Engineering at **Politecnico di Milano**, conducting my thesis research in the [BONSAI Lab](https://www.bonsai.deib.polimi.it/) with [Qiaolun Zhang](https://qiaolunzhang.github.io/) and [Massimo Tornatore](https://tornatore.faculty.polimi.it/).
 
-I work on communication and networking for distributed AI training, studying how computing and network resources can work together more efficiently. My research combines systems development with experimental evaluation to understand communication bottlenecks and their effect on training performance.
+I work on communication and networking for distributed AI training. My thesis investigates how collective communication schedules and network paths can adapt together as network conditions change. I build experimental systems and runtime controls to study this interaction during GPU training.
 
 <p><a href="https://arnochanpolimi.github.io" title="Website"><img src="assets/social/website-icon.svg" width="28" height="28" alt="Website"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/hongchen-arno/" title="LinkedIn"><img src="assets/social/linkedin-icon.svg" width="28" height="28" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;<a href="https://orcid.org/0009-0005-2135-3301" title="ORCID"><img src="assets/social/orcid-icon.svg" width="28" height="28" alt="ORCID"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:arnochan2024@gmail.com" title="Email"><img src="assets/social/email-icon.svg" width="28" height="28" alt="Email"></a></p>
 
 <p><img src="assets/section-divider.svg" width="100%" height="1" alt=""></p>
 
+### Research
+
+I built a GPU training testbed with a programmable multipath network to study communication across datacenters. My work includes network-aware collective scheduling, channel-level path steering, and coordinated schedule activation across GPU workers. I use the platform to compare these controls separately and together under changing network conditions. The workshop study focuses on All-Gather; work on Reduce-Scatter continues as part of my thesis.
+
+### Publications
+
+**An Experimental Testbed for Joint CCL Re-optimization and WAN Re-routing in Cross-Datacenter Training**
+
+Accepted on **September 18, 2026**, at **INET4AI 2026**, co-located with **ACM CoNEXT 2026**.
+
+<p><img src="assets/section-divider.svg" width="100%" height="1" alt=""></p>
+
 ### Selected work
 
-- **Distributed computing** — Communication and networking for distributed AI systems.
-- **[Recommender systems](https://github.com/ArnoChanPolimi/RecSys_PoliMi_Challenge_2025)** — Machine learning for personalized recommendations.
-- **[Wireless networks](https://github.com/ArnoChanPolimi/mrn-oran-m2-project2)** — Network control and wireless communications.
-- **[Radar sensing](https://github.com/ArnoChanPolimi/mmWave-Radar-Vital-Sign-Detection)** — Signal processing for contactless sensing.
+- **[O-RAN network control](https://github.com/ArnoChanPolimi/mrn-oran-m2-project2)** — Adapting wireless transmission settings using network measurements.
+- **[Hybrid recommender systems](https://github.com/ArnoChanPolimi/RecSys_PoliMi_Challenge_2025)** — Combining and evaluating recommendation methods within a course-provided framework.
+- **[Plant-stress classification](https://github.com/ArnoChanPolimi/CGI2026)** — Image classification and evaluation on unseen plant species.
+- **[Statistical signal processing](https://github.com/ArnoChanPolimi/Signal-Processing-and-Learning)** — Estimation, detection, and adaptive filtering.
+- **[LoS MIMO capacity analysis](https://github.com/ArnoChanPolimi/Information_Theory_Project_LoS_MIMO)** — Studying antenna geometry and power allocation in wireless links.
 
 <p align="center"><br>
 <a href="https://www.mathworks.com/products/matlab.html"><img src="assets/tech/matlab.svg" height="24" alt="MATLAB" title="MATLAB"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.python.org/"><img src="assets/tech/python.svg" height="24" alt="Python" title="Python"></a>&nbsp;&nbsp;&nbsp;<a href="https://isocpp.org/"><img src="assets/tech/cplusplus.svg" height="24" alt="C++" title="C++"></a>&nbsp;&nbsp;&nbsp;<img src="assets/tech/script.svg" height="24" alt="Shell scripting" title="Shell scripting">&nbsp;&nbsp;&nbsp;<a href="https://pytorch.org/"><img src="assets/tech/pytorch.svg" height="24" alt="PyTorch" title="PyTorch"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.tensorflow.org/"><img src="assets/tech/tensorflow.svg" height="24" alt="TensorFlow" title="TensorFlow"></a>&nbsp;&nbsp;&nbsp;<a href="https://numpy.org/"><img src="assets/tech/numpy.svg" height="24" alt="NumPy" title="NumPy"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.docker.com/"><img src="assets/tech/docker.svg" height="24" alt="Docker" title="Docker"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.nvidia.com/"><img src="assets/tech/nvidia.svg" height="24" alt="NVIDIA" title="NVIDIA"></a></p>
